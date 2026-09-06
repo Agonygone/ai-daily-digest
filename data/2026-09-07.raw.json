@@ -1,10 +1,10 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-07T06:13:21.218230+08:00",
+  "generated_at": "2026-09-07T07:41:13.157002+08:00",
   "counts": {
     "papers": 30,
     "projects": 15,
-    "news": 114
+    "news": 125
   },
   "items": {
     "papers": [
@@ -602,7 +602,7 @@
         "title": "XCancel is available again",
         "url": "https://xcancel.com/about",
         "normalized_url": "https://xcancel.com/about",
-        "summary": "HN points: 20, comments: 1",
+        "summary": "HN points: 25, comments: 1",
         "source": "Hacker News",
         "published": "2026-09-06T20:44:59Z",
         "importance_hint": 3,
@@ -610,13 +610,13 @@
       },
       {
         "category": "news",
-        "title": "The Leaked Audit That Exposes OpenAI's Real Financial Crisis [video]",
-        "url": "https://www.youtube.com/watch?v=UVKmPMTwglI",
-        "normalized_url": "https://www.youtube.com/watch?v=UVKmPMTwglI",
-        "summary": "HN points: 15, comments: 2",
+        "title": "Harnessing the Universal Geometry of Embeddings",
+        "url": "https://arxiv.org/abs/2505.12540",
+        "normalized_url": "https://arxiv.org/abs/2505.12540",
+        "summary": "HN points: 29, comments: 3",
         "source": "Hacker News",
-        "published": "2026-09-06T20:13:39Z",
-        "importance_hint": 4,
+        "published": "2026-09-06T20:31:20Z",
+        "importance_hint": 3,
         "metadata": {}
       },
       {
@@ -648,7 +648,7 @@
         "title": "How I feel about AI",
         "url": "https://beza1e1.tuxen.de/ai_feelings.html",
         "normalized_url": "https://beza1e1.tuxen.de/ai_feelings.html",
-        "summary": "HN points: 149, comments: 234",
+        "summary": "HN points: 150, comments: 240",
         "source": "Hacker News",
         "published": "2026-09-06T15:00:19Z",
         "importance_hint": 3,
@@ -670,7 +670,7 @@
         "title": "The pencil case model of creativity",
         "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
         "normalized_url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
-        "summary": "HN points: 56, comments: 19",
+        "summary": "HN points: 58, comments: 19",
         "source": "Hacker News",
         "published": "2026-09-06T12:05:34Z",
         "importance_hint": 4,
@@ -681,7 +681,7 @@
         "title": "Don't Use a gmail.com Address",
         "url": "https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/",
         "normalized_url": "https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address",
-        "summary": "HN points: 61, comments: 44",
+        "summary": "HN points: 61, comments: 45",
         "source": "Hacker News",
         "published": "2026-09-06T11:50:24Z",
         "importance_hint": 3,
@@ -697,7 +697,7 @@
         "published": "2026-09-06T08:50:07+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -710,7 +710,7 @@
         "published": "2026-09-06T08:48:41+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -723,7 +723,7 @@
         "published": "2026-09-06T07:20:52+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -736,7 +736,7 @@
         "published": "2026-09-06T07:13:59+00:00",
         "importance_hint": 4,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -749,7 +749,7 @@
         "published": "2026-09-06T04:20:59+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -762,7 +762,7 @@
         "published": "2026-09-06T04:20:09+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -775,7 +775,7 @@
         "published": "2026-09-06T03:59:41+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -788,7 +788,7 @@
         "published": "2026-09-06T03:41:33+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -801,7 +801,7 @@
         "published": "2026-09-06T03:33:58+00:00",
         "importance_hint": 4,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -814,7 +814,7 @@
         "published": "2026-09-06T02:21:21+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -1196,6 +1196,19 @@
       },
       {
         "category": "news",
+        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+        "normalized_url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+        "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by […]",
+        "source": "The Verge AI",
+        "published": "2026-09-06T23:36:04+00:00",
+        "importance_hint": 5,
+        "metadata": {
+          "feed_url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+        }
+      },
+      {
+        "category": "news",
         "title": "OpenAI admits to German wiki ‘incident’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
         "normalized_url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
@@ -1543,6 +1556,136 @@
         "importance_hint": 5,
         "metadata": {
           "feed_url": "https://the-decoder.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
+        "url": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder",
+        "summary": "We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255× index compression, the 5",
+        "source": "MarkTechPost",
+        "published": "2026-09-06T21:06:41+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
+        "url": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours",
+        "summary": "AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours. The post Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours appeared first on MarkTec",
+        "source": "MarkTechPost",
+        "published": "2026-09-06T20:25:17+00:00",
+        "importance_hint": 5,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
+        "url": "https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents",
+        "summary": "Training and benchmarking a computer-use agent needs four things — agents, environments, traces, and a framework to evaluate and train them — and all four ship in incompatible formats today. CUA-Lite, from a UC Berkeley led team, puts them behind one action space and one data schema, and replaces OSWorld's per-task virtual machine with a plain Docker container at 0.9 GB instead of 4.1 GB. The post UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and",
+        "source": "MarkTechPost",
+        "published": "2026-09-06T06:11:02+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed",
+        "url": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed",
+        "summary": "Retrieval quality in an AI search product is bounded by two things: how good the embedding model is, and how cheaply you can run it across an index. This week, Perplexity Engineering team published Fast Embeddings on GPUs, an under-the-hood account of the second — the serving infrastructure behind pplx-embed and the ranking models used […] The post Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed appeared first on MarkTechPost .",
+        "source": "MarkTechPost",
+        "published": "2026-09-06T03:20:47+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI",
+        "url": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli",
+        "summary": "We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution patterns it routes between — Single, Cascade with a quality gate, and Critique with a read-only cross-family reviewer. The post GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI appeared first on MarkTechPost .",
+        "source": "MarkTechPost",
+        "published": "2026-09-05T19:40:11+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop",
+        "url": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup",
+        "summary": "Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-quality build that fits, downloads it, and configures llama.cpp — with a hard 4-bit floor and a 64K minimum context window. The post Nous Research Adds One-Click Local Model Setup to Hermes Desktop appeared first on MarkTechPost .",
+        "source": "MarkTechPost",
+        "published": "2026-09-05T19:12:02+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus",
+        "url": "https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist",
+        "summary": "Adaption Labs has released Invent a Dataset, which generates a structured, training-ready dataset from a description of the behavior you want a model to learn. There is no seed corpus, no schema design, and no labeling guide. A single datasets.invent call sets domains, row count, output format, and language expansion, and the rows download as JSONL, JSON, CSV, or Parquet. The dataset ID then passes straight into AutoScientist, closing an intent-to-trained-model loop. The post Adaption Labs Intro",
+        "source": "MarkTechPost",
+        "published": "2026-09-05T06:48:29+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
+        "url": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models",
+        "summary": "Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs. The post Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88% appeared first on MarkTechPost .",
+        "source": "MarkTechPost",
+        "published": "2026-09-05T04:37:25+00:00",
+        "importance_hint": 5,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes",
+        "url": "https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes",
+        "summary": "We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how PAIR proxies existing Ollama and LM Studio endpoints so agent harnesses need no changes, and how its scheduler filters nodes on readiness, engine state, exact model presence, job load, and GPU utilization. We walk through NVIDIA's five-subagent demonstration, which averaged 18 minutes on one RTX Spark laptop against 8 minu",
+        "source": "MarkTechPost",
+        "published": "2026-09-05T03:52:23+00:00",
+        "importance_hint": 5,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
+        "url": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour",
+        "summary": "WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, Gemini, Maps. The post Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour appeared first on MarkTechPost .",
+        "source": "MarkTechPost",
+        "published": "2026-09-04T01:21:49+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
         }
       },
       {
@@ -1911,38 +2054,12 @@
       },
       {
         "category": "news",
-        "title": "Which agent harness do you use and why?",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8f7bp/which_agent_harness_do_you_use_and_why/",
-        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8f7bp/which_agent_harness_do_you_use_and_why",
-        "summary": "I see a new one being launched every few days... How do these new harnesses compare to claude code, pi etc. has anyone switched from these? which harness to prefer and why edit: Ive tried several different ones claude code, deepagents(langgraph), opencode, pi, and trueforge my thoughts- claude code - strongest on maturity and the managed experience but cost and token burn is high deepagents - interesting middle ground if you want a more structured agent framework and the flexibility of an open-s",
-        "source": "r/LocalLLaMA",
-        "published": "2026-09-05T22:57:24+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
-        }
-      },
-      {
-        "category": "news",
         "title": "Qwen 3.8 Flash Next (Max) is impressive just to talk with.",
         "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8h0cb/qwen_38_flash_next_max_is_impressive_just_to_talk/",
         "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8h0cb/qwen_38_flash_next_max_is_impressive_just_to_talk",
         "summary": "I feel like coding overshadows how great this model really is. It knew a lot of very arbitrary facts/information about my home state and resources about those specific things related to jobs. I found this interesting since getting into the nitty gritty details like this can cause a model to hallucinate some facts. Not only that but if you have a problem, it will throw the kitchen sink at you with everything it’s got to try and solve it. submitted by /u/XiRw [link] [comments]",
         "source": "r/LocalLLaMA",
         "published": "2026-09-06T00:17:53+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Coding benchmarks that are quickly showcasing deep capability",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8us6t/coding_benchmarks_that_are_quickly_showcasing/",
-        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8us6t/coding_benchmarks_that_are_quickly_showcasing",
-        "summary": "While we see for frontier models similar scores among famous coding benchmarks, across: DeepSWE, Terminal-Bench, LiveCodeBench, Code-Arena ELO. Here are in my opinion some next level benchmarks that really define deep intelligence , and complete capability in Software Engineering : 1. Program-Bench Given only a compiled binary and its documentation, agents must architect and implement a complete codebase that reproduces the original program's behavior (without access to decompilers or internet).",
-        "source": "r/LocalLLaMA",
-        "published": "2026-09-06T12:23:28+00:00",
         "importance_hint": 4,
         "metadata": {
           "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
@@ -1963,13 +2080,13 @@
       },
       {
         "category": "news",
-        "title": "Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8r0t9/villager_simulation_game_poc_created_with/",
-        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8r0t9/villager_simulation_game_poc_created_with",
-        "summary": "https://village-sim-one.vercel.app/ - 16GB VRAM RTX 5070 Ti, fully offloaded - Vision on CPU - Windows, not headless - beellama.cpp - latest version with the kvarn performance enhancements making it as fast as qx_x quants. - MTP n-max = 2 - tg up to 75t/s, pp up to 1700t/s - KV = kvarn3/kvarn3 - MTP draft KV = kvarn2/kvarn2 - context = 96256 - tail tokens = 1024 - HTML/Javascript - pi harness with pi-observational-memory, pi-web-access, pi-atelier (UI Only change, check it out) extensions, thoug",
+        "title": "Coding benchmarks that are quickly showcasing deep capability",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8us6t/coding_benchmarks_that_are_quickly_showcasing/",
+        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8us6t/coding_benchmarks_that_are_quickly_showcasing",
+        "summary": "While we see for frontier models similar scores among famous coding benchmarks, across: DeepSWE, Terminal-Bench, LiveCodeBench, Code-Arena ELO. Here are in my opinion some next level benchmarks that really define deep intelligence , and complete capability in Software Engineering : 1. Program-Bench Given only a compiled binary and its documentation, agents must architect and implement a complete codebase that reproduces the original program's behavior (without access to decompilers or internet).",
         "source": "r/LocalLLaMA",
-        "published": "2026-09-06T09:02:00+00:00",
-        "importance_hint": 3,
+        "published": "2026-09-06T12:23:28+00:00",
+        "importance_hint": 4,
         "metadata": {
           "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
         }
@@ -1983,6 +2100,32 @@
         "source": "r/LocalLLaMA",
         "published": "2026-09-06T09:54:44+00:00",
         "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8r0t9/villager_simulation_game_poc_created_with/",
+        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8r0t9/villager_simulation_game_poc_created_with",
+        "summary": "https://village-sim-one.vercel.app/ - 16GB VRAM RTX 5070 Ti, fully offloaded - Vision on CPU - Windows, not headless - beellama.cpp - latest version with the kvarn performance enhancements making it as fast as qx_x quants. - MTP n-max = 2 - tg up to 75t/s, pp up to 1700t/s - KV = kvarn3/kvarn3 - MTP draft KV = kvarn2/kvarn2 - context = 96256 - tail tokens = 1024 - HTML/Javascript - pi harness with pi-observational-memory, pi-web-access, pi-atelier (UI Only change, check it out) extensions, thoug",
+        "source": "r/LocalLLaMA",
+        "published": "2026-09-06T09:02:00+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Block KV cache streaming: bound VRAM at long context via a shared CUDA phase arena by giveen · Pull Request #357 · TheTom/llama-cpp-turboquant",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8jflp/block_kv_cache_streaming_bound_vram_at_long/",
+        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8jflp/block_kv_cache_streaming_bound_vram_at_long",
+        "summary": "So after all my work, yeah, Raymond did it better, so I ported his work over, extended it turboX, extended it multiple other models (he had only Qwen models), and benchmarked the crap out of it to make sure it was worth it still. So really the credit goes to Raymond ( https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming ) submitted by /u/giveen [link] [comments]",
+        "source": "r/LocalLLaMA",
+        "published": "2026-09-06T02:15:32+00:00",
+        "importance_hint": 4,
         "metadata": {
           "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
         }
