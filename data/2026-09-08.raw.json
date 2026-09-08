@@ -1,10 +1,10 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08T06:56:35.521166+08:00",
+  "generated_at": "2026-09-08T08:07:31.006611+08:00",
   "counts": {
     "papers": 30,
     "projects": 10,
-    "news": 104
+    "news": 112
   },
   "items": {
     "papers": [
@@ -402,132 +402,132 @@
     "projects": [
       {
         "category": "projects",
-        "title": "heygen-com/hyperframes ⭐+734/天",
+        "title": "heygen-com/hyperframes ⭐+474/天",
         "url": "https://github.com/heygen-com/hyperframes",
         "normalized_url": "https://github.com/heygen-com/hyperframes",
-        "summary": "Write HTML. Render video. Built for agents. （GitHub Trending · 今日 +734 star）",
+        "summary": "Write HTML. Render video. Built for agents. （GitHub Trending · 今日 +474 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "734"
+          "stars_today": "474"
         }
       },
       {
         "category": "projects",
-        "title": "mksglu/context-mode ⭐+147/天",
+        "title": "mksglu/context-mode ⭐+96/天",
         "url": "https://github.com/mksglu/context-mode",
         "normalized_url": "https://github.com/mksglu/context-mode",
-        "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. （GitHub Trending · 今日 +147 star）",
+        "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. （GitHub Trending · 今日 +96 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "147"
+          "stars_today": "96"
         }
       },
       {
         "category": "projects",
-        "title": "jo-inc/camofox-browser ⭐+285/天",
+        "title": "jo-inc/camofox-browser ⭐+135/天",
         "url": "https://github.com/jo-inc/camofox-browser",
         "normalized_url": "https://github.com/jo-inc/camofox-browser",
-        "summary": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. （GitHub Trending · 今日 +285 star）",
+        "summary": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. （GitHub Trending · 今日 +135 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "285"
+          "stars_today": "135"
         }
       },
       {
         "category": "projects",
-        "title": "affaan-m/ECC ⭐+1,905/天",
+        "title": "affaan-m/ECC ⭐+1,897/天",
         "url": "https://github.com/affaan-m/ECC",
         "normalized_url": "https://github.com/affaan-m/ECC",
-        "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. （GitHub Trending · 今日 +1,905 star）",
+        "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. （GitHub Trending · 今日 +1,897 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "1,905"
+          "stars_today": "1,897"
         }
       },
       {
         "category": "projects",
-        "title": "coreyhaines31/marketingskills ⭐+602/天",
+        "title": "coreyhaines31/marketingskills ⭐+580/天",
         "url": "https://github.com/coreyhaines31/marketingskills",
         "normalized_url": "https://github.com/coreyhaines31/marketingskills",
-        "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. （GitHub Trending · 今日 +602 star）",
+        "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. （GitHub Trending · 今日 +580 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "602"
+          "stars_today": "580"
         }
       },
       {
         "category": "projects",
-        "title": "The-Swarm-Corporation/AutoHedge ⭐+541/天",
+        "title": "The-Swarm-Corporation/AutoHedge ⭐+517/天",
         "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
         "normalized_url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-        "summary": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. （GitHub Trending · 今日 +541 star）",
+        "summary": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. （GitHub Trending · 今日 +517 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "541"
+          "stars_today": "517"
         }
       },
       {
         "category": "projects",
-        "title": "bytedance/deer-flow ⭐+188/天",
+        "title": "bytedance/deer-flow ⭐+195/天",
         "url": "https://github.com/bytedance/deer-flow",
         "normalized_url": "https://github.com/bytedance/deer-flow",
-        "summary": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. （GitHub Trending · 今日 +188 star）",
+        "summary": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. （GitHub Trending · 今日 +195 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "188"
+          "stars_today": "195"
         }
       },
       {
         "category": "projects",
-        "title": "openai/skills ⭐+372/天",
+        "title": "openai/skills ⭐+351/天",
         "url": "https://github.com/openai/skills",
         "normalized_url": "https://github.com/openai/skills",
-        "summary": "Skills Catalog for Codex （GitHub Trending · 今日 +372 star）",
+        "summary": "Skills Catalog for Codex （GitHub Trending · 今日 +351 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "372"
+          "stars_today": "351"
         }
       },
       {
         "category": "projects",
-        "title": "lightpanda-io/browser ⭐+116/天",
+        "title": "lightpanda-io/browser ⭐+58/天",
         "url": "https://github.com/lightpanda-io/browser",
         "normalized_url": "https://github.com/lightpanda-io/browser",
-        "summary": "Lightpanda: the headless browser designed for AI and automation （GitHub Trending · 今日 +116 star）",
+        "summary": "Lightpanda: the headless browser designed for AI and automation （GitHub Trending · 今日 +58 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 4,
         "metadata": {
-          "stars_today": "116"
+          "stars_today": "58"
         }
       },
       {
         "category": "projects",
-        "title": "ruvnet/ruflo ⭐+392/天",
+        "title": "ruvnet/ruflo ⭐+394/天",
         "url": "https://github.com/ruvnet/ruflo",
         "normalized_url": "https://github.com/ruvnet/ruflo",
-        "summary": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated （GitHub Trending · 今日 +392 star）",
+        "summary": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated （GitHub Trending · 今日 +394 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "392"
+          "stars_today": "394"
         }
       }
     ],
@@ -537,7 +537,7 @@
         "title": "The smallest edge AI device for local LLMs",
         "url": "https://tiiny.ai/",
         "normalized_url": "https://tiiny.ai",
-        "summary": "HN points: 17, comments: 15",
+        "summary": "HN points: 18, comments: 16",
         "source": "Hacker News",
         "published": "2026-09-07T21:09:12Z",
         "importance_hint": 3,
@@ -548,7 +548,7 @@
         "title": "AI Cold Showers",
         "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
         "normalized_url": "https://allan.reyes.sh/posts/ai-cold-showers",
-        "summary": "HN points: 63, comments: 11",
+        "summary": "HN points: 67, comments: 11",
         "source": "Hacker News",
         "published": "2026-09-07T19:05:39Z",
         "importance_hint": 3,
@@ -559,7 +559,7 @@
         "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
         "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
         "normalized_url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-        "summary": "HN points: 96, comments: 113",
+        "summary": "HN points: 96, comments: 114",
         "source": "Hacker News",
         "published": "2026-09-07T18:24:32Z",
         "importance_hint": 4,
@@ -578,10 +578,21 @@
       },
       {
         "category": "news",
+        "title": "Show HN: Send flowers from your AI agent and make your mum happy",
+        "url": "https://news.ycombinator.com/item?id=49599559",
+        "normalized_url": "https://news.ycombinator.com/item?id=49599559",
+        "summary": "HN points: 11, comments: 7",
+        "source": "Hacker News",
+        "published": "2026-09-07T15:34:40Z",
+        "importance_hint": 4,
+        "metadata": {}
+      },
+      {
+        "category": "news",
         "title": "ChatGPT Was Built on Concealed 'Mass Piracy', Authors Tell Court",
         "url": "https://torrentfreak.com/openais-chatgpt-was-built-on-concealed-mass-piracy-authors-tell-court/",
         "normalized_url": "https://torrentfreak.com/openais-chatgpt-was-built-on-concealed-mass-piracy-authors-tell-court",
-        "summary": "HN points: 13, comments: 7",
+        "summary": "HN points: 15, comments: 9",
         "source": "Hacker News",
         "published": "2026-09-07T14:31:27Z",
         "importance_hint": 3,
@@ -592,7 +603,7 @@
         "title": "De-Brainrot Vacations",
         "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
         "normalized_url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting",
-        "summary": "HN points: 457, comments: 186",
+        "summary": "HN points: 461, comments: 187",
         "source": "Hacker News",
         "published": "2026-09-07T13:00:48Z",
         "importance_hint": 3,
@@ -614,7 +625,7 @@
         "title": "Smartphone makers don't bother to comply with EU repairability requirements",
         "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
         "normalized_url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-        "summary": "HN points: 267, comments: 145",
+        "summary": "HN points: 270, comments: 148",
         "source": "Hacker News",
         "published": "2026-09-07T11:46:37Z",
         "importance_hint": 3,
@@ -625,7 +636,7 @@
         "title": "Initial effects of AI technology on employment look positive",
         "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
         "normalized_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-        "summary": "HN points: 62, comments: 96",
+        "summary": "HN points: 66, comments: 96",
         "source": "Hacker News",
         "published": "2026-09-07T10:38:32Z",
         "importance_hint": 3,
@@ -636,7 +647,7 @@
         "title": "Speculative Decoding in vLLM on AMD GPUs",
         "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
         "normalized_url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "summary": "HN points: 125, comments: 47",
+        "summary": "HN points: 126, comments: 46",
         "source": "Hacker News",
         "published": "2026-09-07T09:26:41Z",
         "importance_hint": 3,
@@ -644,14 +655,42 @@
       },
       {
         "category": "news",
-        "title": "OpenAI 2025 financials $38.5B loss ahead of IPO",
-        "url": "https://qz.com/openai-leaked-financials-losses-revenue-ipo-061626",
-        "normalized_url": "https://qz.com/openai-leaked-financials-losses-revenue-ipo-061626",
-        "summary": "HN points: 31, comments: 6",
-        "source": "Hacker News",
-        "published": "2026-09-07T05:41:13Z",
+        "title": "刚刚，GPT-6 Astra “鲨死了”所有验证码",
+        "url": "https://www.36kr.com/p/3973910125457667",
+        "normalized_url": "https://www.36kr.com/p/3973910125457667",
+        "summary": "现在大小网站登录都靠验证码区分人机，今夜过后这套过时了。",
+        "source": "36Kr AI",
+        "published": "2026-09-08T00:00:44+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+        }
+      },
+      {
+        "category": "news",
+        "title": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+        "url": "https://www.36kr.com/p/3973972580495881",
+        "normalized_url": "https://www.36kr.com/p/3973972580495881",
+        "summary": "AMD 想让一台电脑把昂贵的 AI Token 账单降下来",
+        "source": "36Kr AI",
+        "published": "2026-09-07T23:54:32+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+        }
+      },
+      {
+        "category": "news",
+        "title": "把千亿模型装进笔记本，Windows 终于要反击 Mac 了",
+        "url": "https://www.36kr.com/p/3973963045138688",
+        "normalized_url": "https://www.36kr.com/p/3973963045138688",
+        "summary": "都想让 PC 成为 AI 的运行环境",
+        "source": "36Kr AI",
+        "published": "2026-09-07T23:53:32+00:00",
         "importance_hint": 4,
-        "metadata": {}
+        "metadata": {
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+        }
       },
       {
         "category": "news",
@@ -740,45 +779,6 @@
         "source": "36Kr AI",
         "published": "2026-09-07T12:36:37+00:00",
         "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "卡住机器人的从来不是芯片，而是物理数据荒漠，李飞飞把两个小时的繁琐扫街压到了三张照片",
-        "url": "https://www.36kr.com/p/3973125912572161",
-        "normalized_url": "https://www.36kr.com/p/3973125912572161",
-        "summary": "只要你在物理世界移动，“新视角预测”就是下一个Token",
-        "source": "36Kr AI",
-        "published": "2026-09-07T12:34:54+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "AI一周观察 2026W36：Astra 拓展Agent边界，Google 意外受益于 tokenmaxxing",
-        "url": "https://www.36kr.com/p/3973262535307785",
-        "normalized_url": "https://www.36kr.com/p/3973262535307785",
-        "summary": "AI产业动态、研究进展、政策事件一周汇总",
-        "source": "36Kr AI",
-        "published": "2026-09-07T12:25:37+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "被AI判“死刑”两年后，招聘股竟然集体翻倍了",
-        "url": "https://www.36kr.com/p/3973262812574209",
-        "normalized_url": "https://www.36kr.com/p/3973262812574209",
-        "summary": "招聘股，成了AI浪潮的意外赢家",
-        "source": "36Kr AI",
-        "published": "2026-09-07T12:23:04+00:00",
-        "importance_hint": 3,
         "metadata": {
           "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
@@ -1027,7 +1027,7 @@
         "published": "2026-09-06T08:47:08+00:00",
         "importance_hint": 4,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/sspai/tag/AI"
+          "feed_url": "https://hub.slarker.me/sspai/tag/AI"
         }
       },
       {
@@ -1103,32 +1103,6 @@
         "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
         "source": "TechCrunch AI",
         "published": "2026-09-05T18:05:27+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-        "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-        "normalized_url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation",
-        "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-        "source": "TechCrunch AI",
-        "published": "2026-09-04T23:36:14+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-        "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-        "normalized_url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
-        "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-        "source": "TechCrunch AI",
-        "published": "2026-09-04T23:15:11+00:00",
         "importance_hint": 5,
         "metadata": {
           "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/"
@@ -1344,6 +1318,149 @@
       },
       {
         "category": "news",
+        "title": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device",
+        "url": "https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device",
+        "summary": "OpenBMB has released MiniCPM5-2B, a dense causal language model with 2,516,756,480 parameters and a native 131,072 token context. It averages 53.9 across the 34 benchmarks in its model card, ahead of Qwen3.5-4B at 51.1, with its clearest leads in tool use, coding agents and long-context retrieval. Post-training pairs 400B tokens of deep-thinking SFT with RL teachers and on-policy distillation that merges 16 expert models into one checkpoint. The weights ship under Apache 2.0 alongside the pre-tr",
+        "source": "MarkTechPost",
+        "published": "2026-09-07T19:18:07+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories",
+        "url": "https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories",
+        "summary": "Robot datasets have grown far slower than the models trained on them, mostly because collection stays locked to lab hardware. AXIS moves demonstration collection into a web browser and pushes everything expensive to backend GPUs. The result is 207 tasks and 50,129 verified Franka trajectories, and continual pretraining that lifts π0.5 from 83.9 to 88.8 on LIBERO-Plus while a volume-matched RoboCasa365 control reaches only 57.5. The post Axis Robotics Releases AXIS: A Browser-Based Data Engine Wi",
+        "source": "MarkTechPost",
+        "published": "2026-09-07T18:38:47+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B",
+        "url": "https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b",
+        "summary": "Most open model launches release one checkpoint and a benchmark table. The Institute of Foundation Models (IFM) released something wider last week. IFM is the frontier lab launched by MBZUAI in May 2025. K2 Horizon is a fleet of six models: 375B-A23B, 36B-A4B, 32B, 7B, 3.7B and 0.9B. Shipping alongside them are the pre-training corpus, […] The post IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B appeared first on MarkTechPost .",
+        "source": "MarkTechPost",
+        "published": "2026-09-07T05:00:37+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
+        "url": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder",
+        "summary": "We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255× index compression, the 5",
+        "source": "MarkTechPost",
+        "published": "2026-09-06T21:06:41+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
+        "url": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours",
+        "summary": "AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours. The post Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours appeared first on MarkTec",
+        "source": "MarkTechPost",
+        "published": "2026-09-06T20:25:17+00:00",
+        "importance_hint": 5,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
+        "url": "https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents",
+        "summary": "Training and benchmarking a computer-use agent needs four things — agents, environments, traces, and a framework to evaluate and train them — and all four ship in incompatible formats today. CUA-Lite, from a UC Berkeley led team, puts them behind one action space and one data schema, and replaces OSWorld's per-task virtual machine with a plain Docker container at 0.9 GB instead of 4.1 GB. The post UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and",
+        "source": "MarkTechPost",
+        "published": "2026-09-06T06:11:02+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed",
+        "url": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed",
+        "summary": "Retrieval quality in an AI search product is bounded by two things: how good the embedding model is, and how cheaply you can run it across an index. This week, Perplexity Engineering team published Fast Embeddings on GPUs, an under-the-hood account of the second — the serving infrastructure behind pplx-embed and the ranking models used […] The post Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed appeared first on MarkTechPost .",
+        "source": "MarkTechPost",
+        "published": "2026-09-06T03:20:47+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI",
+        "url": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli",
+        "summary": "We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution patterns it routes between — Single, Cascade with a quality gate, and Critique with a read-only cross-family reviewer. The post GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI appeared first on MarkTechPost .",
+        "source": "MarkTechPost",
+        "published": "2026-09-05T19:40:11+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop",
+        "url": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup",
+        "summary": "Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-quality build that fits, downloads it, and configures llama.cpp — with a hard 4-bit floor and a 64K minimum context window. The post Nous Research Adds One-Click Local Model Setup to Hermes Desktop appeared first on MarkTechPost .",
+        "source": "MarkTechPost",
+        "published": "2026-09-05T19:12:02+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus",
+        "url": "https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist",
+        "summary": "Adaption Labs has released Invent a Dataset, which generates a structured, training-ready dataset from a description of the behavior you want a model to learn. There is no seed corpus, no schema design, and no labeling guide. A single datasets.invent call sets domains, row count, output format, and language expansion, and the rows download as JSONL, JSON, CSV, or Parquet. The dataset ID then passes straight into AutoScientist, closing an intent-to-trained-model loop. The post Adaption Labs Intro",
+        "source": "MarkTechPost",
+        "published": "2026-09-05T06:48:29+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Creepy crawlies",
+        "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+        "normalized_url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies",
+        "summary": "Creepy crawlies Konstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org , the official Git repository for the Linux kernel: TL;DR: we spend more CPU cycles rendering commits for scrapers than we spend on all other kinds of legitimate access, including git clones. At any one time, across 5 geo-distributed nodes, there are 14 CPU cores doing nothing but rendering git commits as html. I worry about this a lot from the p",
+        "source": "Simon Willison",
+        "published": "2026-09-07T23:08:58+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://simonwillison.net/atom/everything/"
+        }
+      },
+      {
+        "category": "news",
         "title": "Quoting Jakub Pachocki",
         "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
         "normalized_url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki",
@@ -1429,19 +1546,6 @@
         "source": "Simon Willison",
         "published": "2026-09-06T08:42:49+00:00",
         "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://simonwillison.net/atom/everything/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Introducing GPT-6 Astra for developers",
-        "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-        "normalized_url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers",
-        "summary": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models. I've seen it make incredible renderings of gardens, shipyards, animals , cityscapes, even Dyson spheres. Astra really does believe in putting a red neckerchief on a pelican riding a bicycle. Via Hacker New",
-        "source": "Simon Willison",
-        "published": "2026-09-05T23:27:48+00:00",
-        "importance_hint": 4,
         "metadata": {
           "feed_url": "https://simonwillison.net/atom/everything/"
         }
