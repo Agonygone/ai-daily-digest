@@ -1,10 +1,10 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T06:53:10.230235+08:00",
+  "generated_at": "2026-09-09T07:58:45.139049+08:00",
   "counts": {
     "papers": 30,
     "projects": 13,
-    "news": 128
+    "news": 111
   },
   "items": {
     "papers": [
@@ -522,7 +522,7 @@
         "title": "browser-use/browser-use ⭐+320/天",
         "url": "https://github.com/browser-use/browser-use",
         "normalized_url": "https://github.com/browser-use/browser-use",
-        "summary": "🌐 Make websites accessible for AI agents. Automate tasks online with ease. （GitHub Trending · 今日 +320 star）",
+        "summary": "Agents that use the browser. （GitHub Trending · 今日 +320 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
@@ -573,10 +573,10 @@
     "news": [
       {
         "category": "news",
-        "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+        "title": "Large language models develop novel social biases through adaptive exploration",
         "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
         "normalized_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-        "summary": "HN points: 33, comments: 7",
+        "summary": "HN points: 61, comments: 29",
         "source": "Hacker News",
         "published": "2026-09-08T21:47:38Z",
         "importance_hint": 4,
@@ -587,7 +587,7 @@
         "title": "Tao: Open math problems being non-renewably mined by AI",
         "url": "https://mathstodon.xyz/@tao/117237320796901560",
         "normalized_url": "https://mathstodon.xyz/@tao/117237320796901560",
-        "summary": "HN points: 13, comments: 2",
+        "summary": "HN points: 71, comments: 39",
         "source": "Hacker News",
         "published": "2026-09-08T21:00:52Z",
         "importance_hint": 3,
@@ -611,7 +611,7 @@
         "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads",
         "url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
         "normalized_url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids",
-        "summary": "HN points: 28, comments: 2",
+        "summary": "HN points: 30, comments: 3",
         "source": "Hacker News",
         "published": "2026-09-08T19:43:54Z",
         "importance_hint": 4,
@@ -622,7 +622,7 @@
         "title": "Muse: Meta's personal AI agent, features and capabilities",
         "url": "https://ai.meta.com/muse/",
         "normalized_url": "https://ai.meta.com/muse",
-        "summary": "HN points: 203, comments: 195",
+        "summary": "HN points: 212, comments: 206",
         "source": "Hacker News",
         "published": "2026-09-08T19:25:00Z",
         "importance_hint": 5,
@@ -646,9 +646,20 @@
         "title": "Flights cancelled at UK airports due to ATC issue",
         "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
         "normalized_url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
-        "summary": "HN points: 114, comments: 97",
+        "summary": "HN points: 115, comments: 100",
         "source": "Hacker News",
         "published": "2026-09-08T18:26:27Z",
+        "importance_hint": 3,
+        "metadata": {}
+      },
+      {
+        "category": "news",
+        "title": "GrapheneOS on AI Usage",
+        "url": "https://grapheneos.social/@GrapheneOS/117236529351603001",
+        "normalized_url": "https://grapheneos.social/@GrapheneOS/117236529351603001",
+        "summary": "HN points: 14, comments: 0",
+        "source": "Hacker News",
+        "published": "2026-09-08T18:00:58Z",
         "importance_hint": 3,
         "metadata": {}
       },
@@ -657,7 +668,7 @@
         "title": "Cognition (Devin) raises $2B at $48B valuation",
         "url": "https://cognition.com/blog/series-e",
         "normalized_url": "https://cognition.com/blog/series-e",
-        "summary": "HN points: 15, comments: 1",
+        "summary": "HN points: 19, comments: 2",
         "source": "Hacker News",
         "published": "2026-09-08T17:16:20Z",
         "importance_hint": 3,
@@ -679,7 +690,7 @@
         "title": "\"Please Remove All Mannered Prose\" and Other LLM Incantations",
         "url": "https://matthewritch.com/blog/2026/09/08/Mannered-Prose-Style-Prompts/",
         "normalized_url": "https://matthewritch.com/blog/2026/09/08/Mannered-Prose-Style-Prompts",
-        "summary": "HN points: 11, comments: 1",
+        "summary": "HN points: 15, comments: 1",
         "source": "Hacker News",
         "published": "2026-09-08T17:08:51Z",
         "importance_hint": 3,
@@ -690,7 +701,7 @@
         "title": "OUI-1: world's first model for Generative UI",
         "url": "https://www.openui.com/blog/oui-1",
         "normalized_url": "https://www.openui.com/blog/oui-1",
-        "summary": "HN points: 54, comments: 58",
+        "summary": "HN points: 56, comments: 59",
         "source": "Hacker News",
         "published": "2026-09-08T17:07:54Z",
         "importance_hint": 4,
@@ -701,7 +712,7 @@
         "title": "Show HN: LLM Attention Visualization",
         "url": "https://ishamf.dev/p/llm-attention-visualizer/",
         "normalized_url": "https://ishamf.dev/p/llm-attention-visualizer",
-        "summary": "HN points: 102, comments: 19",
+        "summary": "HN points: 109, comments: 19",
         "source": "Hacker News",
         "published": "2026-09-08T16:59:41Z",
         "importance_hint": 3,
@@ -731,17 +742,6 @@
       },
       {
         "category": "news",
-        "title": "10x More Efficient Pretraining",
-        "url": "https://magic.dev/blog/pretraining",
-        "normalized_url": "https://magic.dev/blog/pretraining",
-        "summary": "HN points: 17, comments: 2",
-        "source": "Hacker News",
-        "published": "2026-09-08T16:23:04Z",
-        "importance_hint": 3,
-        "metadata": {}
-      },
-      {
-        "category": "news",
         "title": "科氪 | 首发搭载麒麟9050 Pro芯片，HUAWEI Mate XT 2 非凡大师正式亮相",
         "url": "https://www.36kr.com/p/3974948035342594",
         "normalized_url": "https://www.36kr.com/p/3974948035342594",
@@ -750,7 +750,7 @@
         "published": "2026-09-08T16:06:29+00:00",
         "importance_hint": 4,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -763,7 +763,7 @@
         "published": "2026-09-08T13:41:52+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -776,7 +776,7 @@
         "published": "2026-09-08T13:30:50+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -789,7 +789,7 @@
         "published": "2026-09-08T13:29:01+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -802,7 +802,7 @@
         "published": "2026-09-08T13:27:20+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -815,7 +815,7 @@
         "published": "2026-09-08T13:26:20+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -828,7 +828,7 @@
         "published": "2026-09-08T13:21:21+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -841,7 +841,7 @@
         "published": "2026-09-08T13:07:57+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -854,7 +854,7 @@
         "published": "2026-09-08T13:03:35+00:00",
         "importance_hint": 4,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -867,7 +867,7 @@
         "published": "2026-09-08T12:57:47+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
         }
       },
       {
@@ -1102,6 +1102,19 @@
         "importance_hint": 4,
         "metadata": {
           "feed_url": "https://www.infoq.cn/feed.xml"
+        }
+      },
+      {
+        "category": "news",
+        "title": "我又做了一个 Launcher",
+        "url": "https://sspai.com/post/114240",
+        "normalized_url": "https://sspai.com/post/114240",
+        "summary": "undefined 之前用 Kotlin + Compose Desktop 写过一个 Launcher，但是后来停更了。主要是没啥人用，还有就是 JVM 确实太占内存了，而且 APP 本身也有诸多不完善的地方，我自己用了一段时间又滚回去用 PowerToys 了。 为啥现在又要做一个 Launcher 呢？主要是因为我 mac 和 win 两套系统都在用，天天需要来回切换。Alfred 好用但只有 mac，PowerToys Run 只有 Windows，uTools 两边都有但是 Electron，感觉有点过于重了。Raycast 也只有 mac。所以我这次也是用的更轻量级的 Tauri 来开发的。它不是一个单独的软件，它就在我那个 AI 客户端的桌面端里面，网页端一直在发版，桌面端跟着一起走。 用 Alt+Space 呼出面板，跟 PowerToys 和 Wox 一样。 面板现在支持的特性包括：搜应用、搜文件、搜书签、切窗口、算数、截图、录屏、翻剪贴板历史、锁屏静音这些系统命令、结束进程、看系统监控，也能直接问 AI。 应用搜索支持拼音全拼和首字母，同音字和打错字也算。 gc 能",
+        "source": "SSPAI AI",
+        "published": "2026-09-06T08:47:08+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://hub.slarker.me/sspai/tag/AI"
         }
       },
       {
@@ -1395,12 +1408,25 @@
         "title": "Google DeepMind Maps 9 Billion Possible DNA Variants",
         "url": "https://spectrum.ieee.org/alphagenome-atlas",
         "normalized_url": "https://spectrum.ieee.org/alphagenome-atlas",
-        "summary": "DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is considered “non-coding.” Some of it has no known function, while other segments are critical to regulating gene activity. These regulatory elements can interact in complicated ways, and their effects can vary across different cells and tissues. Some also influence genes located far away in the genome. Und",
+        "summary": "DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is considered “noncoding.” Some of it has no known function, while other segments are critical to regulating gene activity. These regulatory elements can interact in complicated ways, and their effects can vary across different cells and tissues. Some also influence genes located far away in the genome. Unde",
         "source": "IEEE Spectrum AI",
         "published": "2026-09-08T14:00:05+00:00",
         "importance_hint": 4,
         "metadata": {
           "feed_url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Why this month's Microsoft patch release is a doozy",
+        "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+        "normalized_url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical",
+        "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+        "source": "Ars Technica AI",
+        "published": "2026-09-08T21:11:46+00:00",
+        "importance_hint": 5,
+        "metadata": {
+          "feed_url": "https://feeds.arstechnica.com/arstechnica/technology-lab"
         }
       },
       {
@@ -1535,132 +1561,28 @@
       },
       {
         "category": "news",
-        "title": "NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels",
-        "url": "https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels",
-        "summary": "NVIDIA has announced CUDA Rust, a push to make Rust a first-class language for GPU kernels. Two open-source NVlabs projects cover the two CUDA programming models: cuda-oxide compiles SIMT kernels from Rust MIR through Pliron and LLVM to PTX, while cutile-rs JIT-compiles Tile kernels through CUDA Tile IR on stable Rust 1.89+. The post NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-08T19:51:54+00:00",
+        "title": "On the Navier–Stokes Millennium Prize Problem",
+        "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+        "normalized_url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+        "summary": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Millennium Prize Problems that have been subject to a $1,000,000 prize since May 24th, 2000. The discovery is somewhat overshadowed by accusations of skulduggery from Tristan Buckmaster, an NYU mathematics professor who was collaborating on related problems with Levent Alpöge, an accomplished mat",
+        "source": "Simon Willison, OpenAI",
+        "published": "2026-09-08T23:55:12+00:00",
         "importance_hint": 5,
         "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
+          "feed_url": "https://simonwillison.net/atom/everything/"
         }
       },
       {
         "category": "news",
-        "title": "Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants",
-        "url": "https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants",
-        "summary": "DeepMind's AlphaGenome Atlas maps every single-letter change in the human genome with 1 impact score per variant. The post Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-08T19:00:09+00:00",
+        "title": "Introducing ChatGPT Images 2.5",
+        "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+        "normalized_url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25",
+        "summary": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-following ability across multiple turns, responds faster, and \"is better at preserving the subjects in your reference photos\". There are two new model IDs in the API: gpt-image-2.5-sunburst and gpt-image-2.5-flare . Based on this I think Sunburst is the stronger option: Choose Sun",
+        "source": "Simon Willison",
+        "published": "2026-09-08T22:46:33+00:00",
         "importance_hint": 5,
         "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Errors 20% at 1 Cent Per Page",
-        "url": "https://www.marktechpost.com/2026/09/07/reducto-releases-r-1-a-single-pass-document-parsing-model-that-cuts-errors-20-at-1-cent-per-page/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/07/reducto-releases-r-1-a-single-pass-document-parsing-model-that-cuts-errors-20-at-1-cent-per-page",
-        "summary": "We look at r-1, the document parsing model Reducto released on September 1, 2026. We walk through how it folds OCR, layout detection, tables, formatting and grounding into one full page pass, replacing the multi stage agentic pipeline it ships alongside. We break down the two numbers that matter for a migration decision: a reported 20% error reduction and a flat 1 cent per page rate against the legacy 3 to 6 cents. The post Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Err",
-        "source": "MarkTechPost",
-        "published": "2026-09-08T03:07:15+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device",
-        "url": "https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device",
-        "summary": "OpenBMB has released MiniCPM5-2B, a dense causal language model with 2,516,756,480 parameters and a native 131,072 token context. It averages 53.9 across the 34 benchmarks in its model card, ahead of Qwen3.5-4B at 51.1, with its clearest leads in tool use, coding agents and long-context retrieval. Post-training pairs 400B tokens of deep-thinking SFT with RL teachers and on-policy distillation that merges 16 expert models into one checkpoint. The weights ship under Apache 2.0 alongside the pre-tr",
-        "source": "MarkTechPost",
-        "published": "2026-09-07T19:18:07+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories",
-        "url": "https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories",
-        "summary": "Robot datasets have grown far slower than the models trained on them, mostly because collection stays locked to lab hardware. AXIS moves demonstration collection into a web browser and pushes everything expensive to backend GPUs. The result is 207 tasks and 50,129 verified Franka trajectories, and continual pretraining that lifts π0.5 from 83.9 to 88.8 on LIBERO-Plus while a volume-matched RoboCasa365 control reaches only 57.5. The post Axis Robotics Releases AXIS: A Browser-Based Data Engine Wi",
-        "source": "MarkTechPost",
-        "published": "2026-09-07T18:38:47+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B",
-        "url": "https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b",
-        "summary": "Most open model launches release one checkpoint and a benchmark table. The Institute of Foundation Models (IFM) released something wider last week. IFM is the frontier lab launched by MBZUAI in May 2025. K2 Horizon is a fleet of six models: 375B-A23B, 36B-A4B, 32B, 7B, 3.7B and 0.9B. Shipping alongside them are the pre-training corpus, […] The post IFM Releases K2 Horizon: Six Apache 2.0 Models From 0.9B to 375B appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-07T05:00:37+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
-        "url": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder",
-        "summary": "We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255× index compression, the 5",
-        "source": "MarkTechPost",
-        "published": "2026-09-06T21:06:41+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
-        "url": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours",
-        "summary": "AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours. The post Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours appeared first on MarkTec",
-        "source": "MarkTechPost",
-        "published": "2026-09-06T20:25:17+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
-        "url": "https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents",
-        "summary": "Training and benchmarking a computer-use agent needs four things — agents, environments, traces, and a framework to evaluate and train them — and all four ship in incompatible formats today. CUA-Lite, from a UC Berkeley led team, puts them behind one action space and one data schema, and replaces OSWorld's per-task virtual machine with a plain Docker container at 0.9 GB instead of 4.1 GB. The post UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and",
-        "source": "MarkTechPost",
-        "published": "2026-09-06T06:11:02+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed",
-        "url": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed",
-        "summary": "Retrieval quality in an AI search product is bounded by two things: how good the embedding model is, and how cheaply you can run it across an index. This week, Perplexity Engineering team published Fast Embeddings on GPUs, an under-the-hood account of the second — the serving infrastructure behind pplx-embed and the ranking models used […] The post Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-06T03:20:47+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
+          "feed_url": "https://simonwillison.net/atom/everything/"
         }
       },
       {
@@ -1739,110 +1661,6 @@
         "importance_hint": 5,
         "metadata": {
           "feed_url": "https://simonwillison.net/atom/everything/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "The purpose of DNS is to spread scams",
-        "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
-        "normalized_url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams",
-        "summary": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\". On this Interisle report ( via Andrew Campling ), Terence says: It says 85 million new registrations of gTLDs were made in 2025. Of those 8.5 million were added to blocklists by May 2025. It reckons that a 10% abuse rate is the likely floor for these numbers and it's",
-        "source": "Simon Willison",
-        "published": "2026-09-06T14:40:07+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://simonwillison.net/atom/everything/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "There's No Limit to How Bad Code Can Get",
-        "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
-        "normalized_url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get",
-        "summary": "My comment on There's No Limit to How Bad Code Can Get — Lobste.rs. [In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming] In my experience it's so rare for that to work. You announce the old thing is irrecoverably drowning in tech debt. You spin up a team to rewrite it from scratch. Work begins. Meanwhile the old thing remains a moving target: it's running the core business, so changes are still necessary. The developers working on it know t",
-        "source": "Simon Willison",
-        "published": "2026-09-06T09:08:06+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://simonwillison.net/atom/everything/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-        "normalized_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-        "summary": "",
-        "source": "Hugging Face Blog",
-        "published": "2026-09-08T14:23:07+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://huggingface.co/blog/feed.xml"
-        }
-      },
-      {
-        "category": "news",
-        "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-        "url": "https://huggingface.co/blog/Hcompany/neomme",
-        "normalized_url": "https://huggingface.co/blog/Hcompany/neomme",
-        "summary": "",
-        "source": "Hugging Face Blog",
-        "published": "2026-09-03T13:13:48+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://huggingface.co/blog/feed.xml"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-        "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-        "normalized_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-        "summary": "",
-        "source": "Hugging Face Blog",
-        "published": "2026-09-03T00:00:00+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://huggingface.co/blog/feed.xml"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Give Your Coding Agents a Memory You Own",
-        "url": "https://huggingface.co/blog/funes",
-        "normalized_url": "https://huggingface.co/blog/funes",
-        "summary": "",
-        "source": "Hugging Face Blog",
-        "published": "2026-09-03T00:00:00+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://huggingface.co/blog/feed.xml"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-        "url": "https://huggingface.co/blog/train-to-paint-with-code",
-        "normalized_url": "https://huggingface.co/blog/train-to-paint-with-code",
-        "summary": "",
-        "source": "Hugging Face Blog",
-        "published": "2026-09-03T00:00:00+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://huggingface.co/blog/feed.xml"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-        "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-        "normalized_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-        "summary": "",
-        "source": "Hugging Face Blog",
-        "published": "2026-09-02T13:49:14+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://huggingface.co/blog/feed.xml"
         }
       },
       {
@@ -1964,19 +1782,6 @@
       },
       {
         "category": "news",
-        "title": "On the Navier–Stokes Millennium Prize Problem",
-        "url": "https://openai.com/index/navier-stokes-solution",
-        "normalized_url": "https://openai.com/index/navier-stokes-solution",
-        "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-        "source": "OpenAI",
-        "published": "2026-09-08T10:00:00+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://openai.com/news/rss.xml"
-        }
-      },
-      {
-        "category": "news",
         "title": "Funding grants for new research into AI and teen development",
         "url": "https://openai.com/index/teen-development-research-grants",
         "normalized_url": "https://openai.com/index/teen-development-research-grants",
@@ -1999,32 +1804,6 @@
         "importance_hint": 4,
         "metadata": {
           "feed_url": "https://openai.com/news/rss.xml"
-        }
-      },
-      {
-        "category": "news",
-        "title": "OpenAI managed agents 🤖, TPU inference ⚡, Anthropic $517B compute 💰",
-        "url": "https://tldr.tech/ai/2026-09-08",
-        "normalized_url": "https://tldr.tech/ai/2026-09-08",
-        "summary": "",
-        "source": "TLDR AI",
-        "published": "2026-09-08T00:00:00+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://tldr.tech/api/rss/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Claude proves Fermat 🧮, automated AI researcher 🔬, Z1 efficiency chip ⚡",
-        "url": "https://tldr.tech/ai/2026-09-07",
-        "normalized_url": "https://tldr.tech/ai/2026-09-07",
-        "summary": "",
-        "source": "TLDR AI",
-        "published": "2026-09-07T00:00:00+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://tldr.tech/api/rss/ai"
         }
       },
       {
@@ -2081,19 +1860,6 @@
       },
       {
         "category": "news",
-        "title": "I made Warrior Quest, a local LLM-powered dark-fantasy RPG where the model only plays NPCs and the actual game state stays deterministic",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa84sa/i_made_warrior_quest_a_local_llmpowered/",
-        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa84sa/i_made_warrior_quest_a_local_llmpowered",
-        "summary": "The LLM is limited to NPC emulation. Game state, world logic, quests, and the authored story are handled by deterministic game systems rather than the LLM. I built it this way because I wanted the freedom of talking to NPCs like you would at a tabletop game, without handing the actual game state or canon over to an LLM. This started as a personal project. As it became more and more fun to actually play, I decided I wanted to release it. I've been a DM and a software engineer for over a decade, s",
-        "source": "r/LocalLLaMA",
-        "published": "2026-09-07T23:37:20+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
-        }
-      },
-      {
-        "category": "news",
         "title": "GPU guide (GB per dollar, bandwidth)",
         "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waq7hu/gpu_guide_gb_per_dollar_bandwidth/",
         "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1waq7hu/gpu_guide_gb_per_dollar_bandwidth",
@@ -2101,6 +1867,19 @@
         "source": "r/LocalLLaMA",
         "published": "2026-09-08T14:37:52+00:00",
         "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+        }
+      },
+      {
+        "category": "news",
+        "title": "inclusionAI/Ling-3.0-flash-VL · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face/",
+        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face",
+        "summary": "Ling-3.0-flash-VL inherits the language, reasoning, and long-context capabilities of Ling-3.0-flash, while extending them with native image and video understanding. The model has 124B total parameters, with only 5.5B parameters activated per token, and supports a context window of up to 1M tokens. The architecture of Ling-3.0-flash-VL is designed to integrate visual information into real-world reasoning and agentic workflows. A ViT visual encoder extracts features from images and videos, while a",
+        "source": "r/LocalLLaMA",
+        "published": "2026-09-08T15:57:12+00:00",
+        "importance_hint": 4,
         "metadata": {
           "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
         }
@@ -2120,12 +1899,12 @@
       },
       {
         "category": "news",
-        "title": "inclusionAI/Ling-3.0-flash-VL · Hugging Face",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face/",
-        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face",
-        "summary": "Ling-3.0-flash-VL inherits the language, reasoning, and long-context capabilities of Ling-3.0-flash, while extending them with native image and video understanding. The model has 124B total parameters, with only 5.5B parameters activated per token, and supports a context window of up to 1M tokens. The architecture of Ling-3.0-flash-VL is designed to integrate visual information into real-world reasoning and agentic workflows. A ViT visual encoder extracts features from images and videos, while a",
+        "title": "Qwen3-0.6B (400 MB) on a Samsung Note 8 (2017) phone drives a real desktop Chrome",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wapzjg/qwen306b_400_mb_on_a_samsung_note_8_2017_phone/",
+        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wapzjg/qwen306b_400_mb_on_a_samsung_note_8_2017_phone",
+        "summary": "Up front: I'm one of the people building the page-perception layer used here. We started by testing small local models. The result turned out to be more interesting than the original test. 12 small models, 3 verifiable tasks, logs, and offline replay. Setup: Galaxy Note 8 (2017, Android 9, 6 GB), llama.cpp in Termux, Qwen3-0.6B Q4_K_M. A laptop with Chrome open, not headless. The phone drives the browser through our relay. What the model does: it gets a structured representation of the page (her",
         "source": "r/LocalLLaMA",
-        "published": "2026-09-08T15:57:12+00:00",
+        "published": "2026-09-08T14:29:24+00:00",
         "importance_hint": 4,
         "metadata": {
           "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
