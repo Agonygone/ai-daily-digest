@@ -21,9 +21,9 @@ from xml.sax.saxutils import escape as _xml_escape
 
 WEEKDAYS = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
 WEEKDAYS_EN = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
-REPO_URL = "https://github.com/Jimmuji/ai-daily-digest"
-SITE_URL = "https://jimmuji.github.io/ai-daily-digest/"
-XIAOYUZHOU_URL = "https://www.xiaoyuzhoufm.com/podcast/6a325e149357568efe4741ef"
+REPO_URL = "https://github.com/Agonygone/ai-daily-digest"
+SITE_URL = "https://agonygone.github.io/ai-daily-digest/"
+XIAOYUZHOU_URL = ""
 
 
 # ── CSS ────────────────────────────────────────────────────────────────────────
