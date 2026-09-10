@@ -1,22 +1,29 @@
 """
 Voice broadcast: turn a daily digest into a natural spoken script (DeepSeek)
-and synthesize it to an MP3 with edge-tts (free Microsoft neural voices).
+and synthesize it to an MP3 with MiMo TTS API.
 
 Designed for commute listening: the MP3 is hosted under docs/audio/ and also
 surfaced via a podcast RSS feed, so listeners can subscribe in any podcast app.
 """
 
-import asyncio
+import json
+import base64
+import struct
+import io
 import os
 import re
+import subprocess
+import tempfile
 
-import edge_tts
+import requests
 
 from generate_site import parse_digest, WEEKDAYS
 
 
-# News-anchor style zh voice; override with AUDIO_VOICE if desired.
-DEFAULT_VOICE = "zh-CN-YunyangNeural"
+# MiMo TTS config
+MIMO_TTS_ENDPOINT = os.environ.get("MIMO_API_BASE_URL", "https://api.xiaomimimo.com/v1").rstrip("/") + "/chat/completions"
+MIMO_TTS_MODEL = os.environ.get("MIMO_TTS_MODEL", "mimo-v2.5-tts")
+DEFAULT_STYLE = "温柔亲切"
 
 NARRATION_SYSTEM = """你是一档 AI 行业每日播客的主播，要把书面简报改写成自然、口语化的播报稿，供听众在通勤路上收听。
 
@@ -28,14 +35,91 @@ NARRATION_SYSTEM = """你是一档 AI 行业每日播客的主播，要把书面
 5. 只输出播报稿正文，不要加任何标题、小节名或解释。"""
 
 
+def _mimo_tts_synthesize(text: str, out_path: str, style: str = "") -> bool:
+    """Call MiMo TTS API and save as WAV. Returns True on success."""
+    api_key = os.environ.get("MIMO_API_KEY", "")
+    if not api_key:
+        print("[audio] MIMO_API_KEY not set; skipping MiMo TTS.")
+        return False
+
+    content = f"<style>{style}</style>{text}" if style else text
+
+    payload = {
+        "model": MIMO_TTS_MODEL,
+        "audio": {"format": "wav", "voice": "mimo_default"},
+        "messages": [{"role": "assistant", "content": content}],
+    }
+
+    try:
+        resp = requests.post(
+            MIMO_TTS_ENDPOINT,
+            headers={
+                "Content-Type": "application/json",
+                "api-key": api_key,
+                "User-Agent": "ai-daily-digest",
+            },
+            json=payload,
+            timeout=300,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+
+        if data.get("error"):
+            print(f"[audio] MiMo API error: {data['error']}")
+            return False
+
+        audio_data = data["choices"][0]["message"]["audio"]
+        raw = base64.b64decode(audio_data["data"])
+
+        # Handle both WAV (RIFF header present) and raw PCM
+        if raw[:4] == b"RIFF":
+            wav_bytes = raw
+        else:
+            # Wrap raw PCM: 24kHz, 16-bit, mono
+            sr, bps, ch = 24000, 16, 1
+            br = sr * ch * bps // 8
+            buf = io.BytesIO()
+            buf.write(b"RIFF")
+            buf.write(struct.pack("<I", 36 + len(raw)))
+            buf.write(b"WAVEfmt ")
+            buf.write(struct.pack("<IHHIIHH", 16, 1, ch, sr, br, ch * bps // 8, bps))
+            buf.write(b"data")
+            buf.write(struct.pack("<I", len(raw)))
+            buf.write(raw)
+            wav_bytes = buf.getvalue()
+
+        # Save WAV first
+        wav_path = out_path.replace(".mp3", ".wav")
+        with open(wav_path, "wb") as f:
+            f.write(wav_bytes)
+
+        # Convert WAV to MP3 using ffmpeg
+        try:
+            subprocess.run(
+                ["ffmpeg", "-y", "-i", wav_path, "-codec:a", "libmp3lame", "-qscale:a", "2", out_path],
+                check=True,
+                capture_output=True,
+            )
+            os.remove(wav_path)  # Clean up WAV
+        except (subprocess.CalledProcessError, FileNotFoundError):
+            # ffmpeg not available, keep WAV
+            os.rename(wav_path, out_path.replace(".mp3", ".wav"))
+            print("[audio] ffmpeg not found; saved as WAV instead of MP3")
+            return True
+
+        return True
+
+    except Exception as e:
+        print(f"[audio] MiMo TTS failed: {e}")
+        return False
+
+
 def _deepseek_script(zh_markdown: str, date_str: str) -> str | None:
     """Ask DeepSeek to rewrite the digest into a spoken script. None on failure."""
     api_key = os.environ.get("API_KEY")
     if not api_key:
         print("[audio] API_KEY not set; using deterministic script.")
         return None
-
-    import requests
 
     base_url = os.environ.get("API_BASE_URL", "https://api.deepseek.com")
     model = os.environ.get("API_MODEL", "deepseek-chat")
@@ -101,10 +185,6 @@ def _clean_for_tts(text: str) -> str:
     return text
 
 
-async def _synthesize(text: str, out_path: str, voice: str) -> None:
-    await edge_tts.Communicate(text, voice).save(out_path)
-
-
 def generate_audio(zh_markdown: str, date_str: str, audio_dir):
     """Generate {date}.mp3 (+ {date}.txt show-notes script) in audio_dir.
 
@@ -120,14 +200,27 @@ def generate_audio(zh_markdown: str, date_str: str, audio_dir):
         print("[audio] Empty script; skipping audio.")
         return None, None
 
-    voice = os.environ.get("AUDIO_VOICE", DEFAULT_VOICE)
+    style = os.environ.get("MIMO_TTS_STYLE", DEFAULT_STYLE)
     mp3_path = audio_dir / f"{date_str}.mp3"
-    print(f"[audio] Synthesizing {mp3_path.name} with {voice} ({len(script)} chars)...")
-    try:
-        asyncio.run(_synthesize(script, str(mp3_path), voice))
-    except Exception as e:
-        print(f"[audio] edge-tts synthesis failed: {e}")
-        return None, None
+    print(f"[audio] Synthesizing {mp3_path.name} with MiMo TTS ({len(script)} chars)...")
+
+    # Try MiMo TTS first
+    success = _mimo_tts_synthesize(script, str(mp3_path), style)
+
+    if not success:
+        # Fallback to edge-tts if MiMo fails and edge-tts is available
+        print("[audio] MiMo TTS failed, falling back to edge-tts...")
+        try:
+            import edge_tts
+            import asyncio
+            voice = os.environ.get("AUDIO_VOICE", "zh-CN-YunyangNeural")
+            asyncio.run(edge_tts.Communicate(script, voice).save(str(mp3_path)))
+        except ImportError:
+            print("[audio] edge-tts not installed and MiMo TTS failed. No audio generated.")
+            return None, None
+        except Exception as e:
+            print(f"[audio] edge-tts fallback also failed: {e}")
+            return None, None
 
     # Save the script as show notes / transcript.
     (audio_dir / f"{date_str}.txt").write_text(script, encoding="utf-8")
@@ -141,7 +234,8 @@ def prune_old_audio(audio_dir, keep: int = 15) -> None:
 
     Bounds repo size (~3 MB/day). Date-named files sort chronologically, so the
     tail is the newest. Older day pages just lose their player — text content is
-    untouched (generate_site only shows a player when the mp3 still exists)."""
+    untouched (generate_site only shows a player when the mp3 still exists).
+    """
     from pathlib import Path
     audio_dir = Path(audio_dir)
     if not audio_dir.exists():
