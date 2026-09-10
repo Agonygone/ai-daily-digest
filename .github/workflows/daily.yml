@@ -30,6 +30,8 @@ jobs:
           API_BASE_URL: ${{ vars.API_BASE_URL || 'https://api.deepseek.com' }}
           API_MODEL: ${{ vars.API_MODEL || 'deepseek-chat' }}
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+          MIMO_API_KEY: ${{ secrets.MIMO_API_KEY }}
+          MIMO_TTS_STYLE: ${{ vars.MIMO_TTS_STYLE || '温柔亲切' }}
         run: cd scripts && python main.py
 
       - name: Commit and push
