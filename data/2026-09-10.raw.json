@@ -1,13 +1,26 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T06:40:48.979950+08:00",
+  "generated_at": "2026-09-10T07:59:10.646896+08:00",
   "counts": {
     "papers": 39,
     "projects": 12,
-    "news": 138
+    "news": 136
   },
   "items": {
     "papers": [
+      {
+        "category": "papers",
+        "title": "Graph Machine: Towards Better Pretraining via Edges",
+        "url": "https://huggingface.co/papers/2609.02881",
+        "normalized_url": "https://huggingface.co/papers/2609.02881",
+        "summary": "We introduce the Graph Machine (GM), an architecture that maintains an O(n)-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static routing, GM preserves O(n) complexity in its sparse layers without restricting the potentially accessible state size to O(1). Instead, GM uses edges - pointer-like objects updated differentiably by a referral mechanism resembling pointer chasing. We replace 75% of the dense Transformer layers in Qwen3-0",
+        "source": "HuggingFace Papers",
+        "published": "2026-09-02T00:00:00.000Z",
+        "importance_hint": 4,
+        "metadata": {
+          "paper_id": "2609.02881"
+        }
+      },
       {
         "category": "papers",
         "title": "EVOHARNESSBENCH: Can Your Agents Keep Pace with an Evolving Harness?",
@@ -387,19 +400,6 @@
       },
       {
         "category": "papers",
-        "title": "Reason Through the Latent! Making Latent Visual Reasoning Necessary",
-        "url": "https://huggingface.co/papers/2609.06746",
-        "normalized_url": "https://huggingface.co/papers/2609.06746",
-        "summary": "Latent visual reasoning aims to perform multimodal reasoning through hidden-state computation rather than explicit textual chains of thought. However, visual information being present in a latent state does not imply that the model actually relies on that state when producing its answer, especially when alternative image-conditioned paths remain available. We introduce Causal Visual Recurrent Reasoning (CVRR), which preserves pretrained visual competence while making recurrent computation the re",
-        "source": "HuggingFace Papers",
-        "published": "2026-09-06T00:00:00.000Z",
-        "importance_hint": 5,
-        "metadata": {
-          "paper_id": "2609.06746"
-        }
-      },
-      {
-        "category": "papers",
         "title": "Learning Length-Extrapolatable Recurrent Models",
         "url": "https://arxiv.org/abs/2609.09157v1",
         "normalized_url": "https://arxiv.org/abs/2609.09157v1",
@@ -662,7 +662,7 @@
         "title": "Jacob Coxon resignation appears to be a PR stunt for AI regulation",
         "url": "https://twitter.com/ParkerThayer/status/2097759699626328575",
         "normalized_url": "https://twitter.com/ParkerThayer/status/2097759699626328575",
-        "summary": "HN points: 16, comments: 3",
+        "summary": "HN points: 19, comments: 3",
         "source": "Hacker News",
         "published": "2026-09-09T20:08:48Z",
         "importance_hint": 3,
@@ -673,7 +673,7 @@
         "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
         "url": "https://github.com/OtoDock/oto-dock",
         "normalized_url": "https://github.com/OtoDock/oto-dock",
-        "summary": "HN points: 32, comments: 8",
+        "summary": "HN points: 37, comments: 9",
         "source": "Hacker News",
         "published": "2026-09-09T17:57:55Z",
         "importance_hint": 4,
@@ -684,7 +684,7 @@
         "title": "AirPods 5",
         "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
         "normalized_url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
-        "summary": "HN points: 327, comments: 258",
+        "summary": "HN points: 350, comments: 290",
         "source": "Hacker News",
         "published": "2026-09-09T17:39:24Z",
         "importance_hint": 3,
@@ -695,7 +695,7 @@
         "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
         "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
         "normalized_url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-        "summary": "HN points: 139, comments: 59",
+        "summary": "HN points: 159, comments: 65",
         "source": "Hacker News",
         "published": "2026-09-09T17:24:28Z",
         "importance_hint": 4,
@@ -717,7 +717,7 @@
         "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
         "url": "https://arxiv.org/abs/2609.09153",
         "normalized_url": "https://arxiv.org/abs/2609.09153",
-        "summary": "HN points: 38, comments: 10",
+        "summary": "HN points: 40, comments: 12",
         "source": "Hacker News",
         "published": "2026-09-09T17:13:52Z",
         "importance_hint": 4,
@@ -728,7 +728,7 @@
         "title": "Is OpenAI Taking Everyone for Fools?",
         "url": "https://read.misalignedmag.com/is-openai-taking-everyone-for-fools-2481fa851544",
         "normalized_url": "https://read.misalignedmag.com/is-openai-taking-everyone-for-fools-2481fa851544",
-        "summary": "HN points: 52, comments: 30",
+        "summary": "HN points: 58, comments: 37",
         "source": "Hacker News",
         "published": "2026-09-09T17:09:51Z",
         "importance_hint": 4,
@@ -750,7 +750,7 @@
         "title": "OpenAI's rogue agents used at least 10 more sites",
         "url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/",
         "normalized_url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09",
-        "summary": "HN points: 44, comments: 10",
+        "summary": "HN points: 47, comments: 11",
         "source": "Hacker News",
         "published": "2026-09-09T16:35:30Z",
         "importance_hint": 5,
@@ -761,7 +761,7 @@
         "title": "Teaching an AI My Taste",
         "url": "https://lonriesberg.com/posts/teaching-an-ai-my-taste/",
         "normalized_url": "https://lonriesberg.com/posts/teaching-an-ai-my-taste",
-        "summary": "HN points: 11, comments: 0",
+        "summary": "HN points: 13, comments: 0",
         "source": "Hacker News",
         "published": "2026-09-09T16:27:49Z",
         "importance_hint": 3,
@@ -805,7 +805,7 @@
         "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
         "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
         "normalized_url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists",
-        "summary": "HN points: 268, comments: 133",
+        "summary": "HN points: 270, comments: 144",
         "source": "Hacker News",
         "published": "2026-09-09T16:01:41Z",
         "importance_hint": 4,
@@ -816,11 +816,37 @@
         "title": "Understanding the recent DDoS attack against Read the Docs",
         "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
         "normalized_url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack",
-        "summary": "HN points: 133, comments: 43",
+        "summary": "HN points: 143, comments: 48",
         "source": "Hacker News",
         "published": "2026-09-09T15:55:53Z",
         "importance_hint": 3,
         "metadata": {}
+      },
+      {
+        "category": "news",
+        "title": "从AT&T强制开源到基因测序之争：历史证明，AI真正的暴利全在“最后一公里”",
+        "url": "https://www.36kr.com/p/3952840291696007",
+        "normalized_url": "https://www.36kr.com/p/3952840291696007",
+        "summary": "如果模型权重免费，谁来为下一次大模型训练买单？谁又能保障我们的安全？",
+        "source": "36Kr AI",
+        "published": "2026-09-09T23:12:29+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+        }
+      },
+      {
+        "category": "news",
+        "title": "职场“野花式成长”能帮你获得晋升",
+        "url": "https://www.36kr.com/p/3942128084778118",
+        "normalized_url": "https://www.36kr.com/p/3942128084778118",
+        "summary": "别再死磕传统企业晋升阶梯，而要围绕个人优势与创造力获得发展。",
+        "source": "36Kr AI",
+        "published": "2026-09-09T23:06:00+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+        }
       },
       {
         "category": "news",
@@ -832,7 +858,7 @@
         "published": "2026-09-09T13:14:25+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -845,7 +871,7 @@
         "published": "2026-09-09T13:10:42+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -858,7 +884,7 @@
         "published": "2026-09-09T13:04:35+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -871,7 +897,7 @@
         "published": "2026-09-09T12:56:44+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -884,7 +910,7 @@
         "published": "2026-09-09T12:31:46+00:00",
         "importance_hint": 4,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -897,7 +923,7 @@
         "published": "2026-09-09T12:29:17+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -910,7 +936,7 @@
         "published": "2026-09-09T12:26:36+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -923,33 +949,7 @@
         "published": "2026-09-09T12:24:39+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "WorkBuddy换皮肤？大厂这是要把AI养成哈基米啊",
-        "url": "https://www.36kr.com/p/3976046087942662",
-        "normalized_url": "https://www.36kr.com/p/3976046087942662",
-        "summary": "陪伴正在成为AI新战场",
-        "source": "36Kr AI",
-        "published": "2026-09-09T12:22:50+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "奉劝各位AI视频玩家，要融资要上市赶紧的",
-        "url": "https://www.36kr.com/p/3976049215402504",
-        "normalized_url": "https://www.36kr.com/p/3976049215402504",
-        "summary": "涌现的钱越多，上市窗口反而越窄。",
-        "source": "36Kr AI",
-        "published": "2026-09-09T12:20:09+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -1184,19 +1184,6 @@
         "importance_hint": 4,
         "metadata": {
           "feed_url": "https://www.infoq.cn/feed.xml"
-        }
-      },
-      {
-        "category": "news",
-        "title": "别急着颠覆工作流，先把身边最烦人的琐事交给 Agent",
-        "url": "https://sspai.com/post/114193",
-        "normalized_url": "https://sspai.com/post/114193",
-        "summary": "先给大家讲个真事。 9月3日将近凌晨——全球 AI 界罕见地迎来了「三大巨头集体宕机」。 ChatGPT 挂了，Claude 亮起了红灯，连 Grok 也瘫在原地，三巨头里的只有 Gemini 稳如泰山、丝毫不受影响。 1 就在大家一片哀鸿遍野、准备睡觉的时候，群里突然幽幽地蹦出来一位老哥，带着三分疑惑和七分优越感敲下一行字： 「为啥我的 Fable 5.1 稳如老狗啊。」 群里瞬间安静了几秒，随后充满了欢乐的笑声。 如果你一眼就看懂了这个笑点，那么这篇文章你可以直接划走了，它真不是写给你的。 包括那些终端里常年挂着三四个 CLI 编程工具、每天熟练地放牧各种多智能体的大神们，也都可以散了。 其余的大家伙可以接着往下看。 随手翻一翻少数派今年的热门文章的时间线，AI 的密度高得甚至让人有点喘不过气。但我也很清楚，站内依然有很大一部分朋友，可能是和我一样的普通上班族和数字生活爱好者——每天和 AI 打交道的方式，依然严格停留在网页版的那个对话框里。 你一边熟练地用着豆包、DeepSeek 查资料、润色文档，一边看着派早报、微博和小红书里铺天盖地的 「新模型颠覆一切」「不会 Vibe Co",
-        "source": "SSPAI AI",
-        "published": "2026-09-09T08:34:08+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/sspai/tag/AI"
         }
       },
       {
@@ -1604,6 +1591,19 @@
       },
       {
         "category": "news",
+        "title": "4 groups caught using the same Chrome and Windows exploit kit",
+        "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+        "normalized_url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit",
+        "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+        "source": "Ars Technica AI",
+        "published": "2026-09-09T20:55:02+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://feeds.arstechnica.com/arstechnica/technology-lab"
+        }
+      },
+      {
+        "category": "news",
         "title": "Why this month's Microsoft patch release is a doozy",
         "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
         "normalized_url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical",
@@ -1747,6 +1747,19 @@
       },
       {
         "category": "news",
+        "title": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
+        "url": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
+        "normalized_url": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities",
+        "summary": "Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache 2.0, and documented as demonstration-only. The post Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities appeared first on MarkTechPost .",
+        "source": "MarkTechPost",
+        "published": "2026-09-09T22:58:29+00:00",
+        "importance_hint": 5,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
         "title": "Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds",
         "url": "https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/",
         "normalized_url": "https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds",
@@ -1868,7 +1881,7 @@
         "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
         "normalized_url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
         "summary": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Millennium Prize Problems that have been subject to a $1,000,000 prize since May 24th, 2000. The discovery is somewhat overshadowed by accusations of skulduggery from Tristan Buckmaster, an NYU mathematics professor who was collaborating on related problems with Levent Alpöge, an accomplished mat",
-        "source": "Simon Willison, OpenAI",
+        "source": "Simon Willison",
         "published": "2026-09-08T23:55:12+00:00",
         "importance_hint": 5,
         "metadata": {
@@ -1994,45 +2007,6 @@
       },
       {
         "category": "news",
-        "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-        "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-        "normalized_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-        "summary": "",
-        "source": "Hugging Face Blog",
-        "published": "2026-09-03T00:00:00+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://huggingface.co/blog/feed.xml"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Give Your Coding Agents a Memory You Own",
-        "url": "https://huggingface.co/blog/funes",
-        "normalized_url": "https://huggingface.co/blog/funes",
-        "summary": "",
-        "source": "Hugging Face Blog",
-        "published": "2026-09-03T00:00:00+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://huggingface.co/blog/feed.xml"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-        "url": "https://huggingface.co/blog/train-to-paint-with-code",
-        "normalized_url": "https://huggingface.co/blog/train-to-paint-with-code",
-        "summary": "",
-        "source": "Hugging Face Blog",
-        "published": "2026-09-03T00:00:00+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://huggingface.co/blog/feed.xml"
-        }
-      },
-      {
-        "category": "news",
         "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
         "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
         "normalized_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
@@ -2150,6 +2124,19 @@
       },
       {
         "category": "news",
+        "title": "The AI policy window is open. We need to act.",
+        "url": "https://openai.com/index/ai-policy-window",
+        "normalized_url": "https://openai.com/index/ai-policy-window",
+        "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+        "source": "OpenAI",
+        "published": "2026-09-09T13:00:00+00:00",
+        "importance_hint": 5,
+        "metadata": {
+          "feed_url": "https://openai.com/news/rss.xml"
+        }
+      },
+      {
+        "category": "news",
         "title": "GPT-6 Astra: The next generation in intelligence for work",
         "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
         "normalized_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
@@ -2222,19 +2209,6 @@
         "source": "TLDR AI",
         "published": "2026-09-08T00:00:00+00:00",
         "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://tldr.tech/api/rss/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Claude proves Fermat 🧮, automated AI researcher 🔬, Z1 efficiency chip ⚡",
-        "url": "https://tldr.tech/ai/2026-09-07",
-        "normalized_url": "https://tldr.tech/ai/2026-09-07",
-        "summary": "",
-        "source": "TLDR AI",
-        "published": "2026-09-07T00:00:00+00:00",
-        "importance_hint": 4,
         "metadata": {
           "feed_url": "https://tldr.tech/api/rss/ai"
         }
@@ -2319,6 +2293,19 @@
       },
       {
         "category": "news",
+        "title": "Apple A20 Pro debuts with 7-core GPU, 32-core Neural Engine and 50% more memory bandwidth (~115 GB/s)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wc0ekw/apple_a20_pro_debuts_with_7core_gpu_32core_neural/",
+        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wc0ekw/apple_a20_pro_debuts_with_7core_gpu_32core_neural",
+        "summary": "It seems to use a 96-bit LPDDR5X memory bus, instead of the previous 64-bit wide busses. Considering it's on 2nm, that's expensive silicon. That should result in around 115 GB/s memory bandwidth. A20 Pro also doubles the size of Apple's dedicated Neural Engine (from 16 to 32 cores total). submitted by /u/Balance- [link] [comments]",
+        "source": "r/LocalLLaMA",
+        "published": "2026-09-09T22:23:31+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+        }
+      },
+      {
+        "category": "news",
         "title": "GLM 5.3 Flash Q4 @ 60tps / 550tps on M3 Ultra",
         "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbkpnw/glm_53_flash_q4_60tps_550tps_on_m3_ultra/",
         "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbkpnw/glm_53_flash_q4_60tps_550tps_on_m3_ultra",
@@ -2326,19 +2313,6 @@
         "source": "r/LocalLLaMA",
         "published": "2026-09-09T12:51:21+00:00",
         "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
-        }
-      },
-      {
-        "category": "news",
-        "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb9prm/us_accuses_chinese_ai_firms_of_malicious_copying/",
-        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb9prm/us_accuses_chinese_ai_firms_of_malicious_copying",
-        "summary": "https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/ https://www.nbcnews.com/tech/tech-news/us-accuses-china-ai-developers-deepseek-alibaba-copying-american-ai-rcna596696 submitted by /u/External_Mood4719 [link] [comments]",
-        "source": "r/LocalLLaMA",
-        "published": "2026-09-09T03:06:39+00:00",
-        "importance_hint": 3,
         "metadata": {
           "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
         }
