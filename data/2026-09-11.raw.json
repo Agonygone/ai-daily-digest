@@ -1,10 +1,10 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T06:42:55.981799+08:00",
+  "generated_at": "2026-09-11T07:57:53.467843+08:00",
   "counts": {
     "papers": 40,
     "projects": 14,
-    "news": 143
+    "news": 133
   },
   "items": {
     "papers": [
@@ -696,10 +696,54 @@
     "news": [
       {
         "category": "news",
+        "title": "Anthropic CEOs wife once asked Epstein to fund porn venture – now steers Claude",
+        "url": "https://nypost.com/2026/08/14/business/anthropic-ceos-wife-once-asked-jeffrey-epstein-to-fund-porn-venture-now-she-helps-steer-the-claude-ai-empire/",
+        "normalized_url": "https://nypost.com/2026/08/14/business/anthropic-ceos-wife-once-asked-jeffrey-epstein-to-fund-porn-venture-now-she-helps-steer-the-claude-ai-empire",
+        "summary": "HN points: 15, comments: 0",
+        "source": "Hacker News",
+        "published": "2026-09-10T22:38:00Z",
+        "importance_hint": 4,
+        "metadata": {}
+      },
+      {
+        "category": "news",
+        "title": "1M+ German households have hung solar panels off their balcony railings",
+        "url": "https://spacedaily.com/b-more-than-a-million-german-households-have-hung-solar-panels-off-their-balcony-railings-and-plugged-them-into-a-wall-socket-and-the-law-caps-each-at-800-watts-a-fridge-and-a-laptop/",
+        "normalized_url": "https://spacedaily.com/b-more-than-a-million-german-households-have-hung-solar-panels-off-their-balcony-railings-and-plugged-them-into-a-wall-socket-and-the-law-caps-each-at-800-watts-a-fridge-and-a-laptop",
+        "summary": "HN points: 22, comments: 2",
+        "source": "Hacker News",
+        "published": "2026-09-10T22:02:44Z",
+        "importance_hint": 3,
+        "metadata": {}
+      },
+      {
+        "category": "news",
+        "title": "Anthropic Just Threatened to Kill Billions of People. This Is Not Okay",
+        "url": "https://calnewport.com/anthropic-just-threatened-to-kill-billions-of-people-this-is-not-okay/",
+        "normalized_url": "https://calnewport.com/anthropic-just-threatened-to-kill-billions-of-people-this-is-not-okay",
+        "summary": "HN points: 12, comments: 9",
+        "source": "Hacker News",
+        "published": "2026-09-10T21:55:07Z",
+        "importance_hint": 4,
+        "metadata": {}
+      },
+      {
+        "category": "news",
+        "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+        "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+        "normalized_url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution",
+        "summary": "HN points: 123, comments: 119",
+        "source": "Hacker News",
+        "published": "2026-09-10T21:22:59Z",
+        "importance_hint": 5,
+        "metadata": {}
+      },
+      {
+        "category": "news",
         "title": "OpenAI Agents API",
         "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
         "normalized_url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-        "summary": "HN points: 51, comments: 44",
+        "summary": "HN points: 89, comments: 62",
         "source": "Hacker News, Hacker News",
         "published": "2026-09-10T19:43:22Z",
         "importance_hint": 5,
@@ -732,7 +776,7 @@
         "title": "OpenAI pausing new $200 plan subscriptions",
         "url": "https://twitter.com/thsottiaux/status/2098113585683808624",
         "normalized_url": "https://twitter.com/thsottiaux/status/2098113585683808624",
-        "summary": "HN points: 13, comments: 4",
+        "summary": "HN points: 14, comments: 4",
         "source": "Hacker News",
         "published": "2026-09-10T18:24:56Z",
         "importance_hint": 4,
@@ -743,7 +787,7 @@
         "title": "Detecting and countering misuse of AI: September 2026",
         "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
         "normalized_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-        "summary": "HN points: 51, comments: 24",
+        "summary": "HN points: 70, comments: 135",
         "source": "Hacker News",
         "published": "2026-09-10T17:23:42Z",
         "importance_hint": 3,
@@ -751,10 +795,10 @@
       },
       {
         "category": "news",
-        "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+        "title": "Anthropic says it blocked possible efforts to build biological weapons",
         "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
         "normalized_url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
-        "summary": "HN points: 61, comments: 94",
+        "summary": "HN points: 65, comments: 1",
         "source": "Hacker News",
         "published": "2026-09-10T17:04:34Z",
         "importance_hint": 4,
@@ -765,7 +809,7 @@
         "title": "Show HN: Open-source simulation testing infra for voice agents",
         "url": "https://github.com/egma-ai/egma",
         "normalized_url": "https://github.com/egma-ai/egma",
-        "summary": "HN points: 11, comments: 1",
+        "summary": "HN points: 12, comments: 1",
         "source": "Hacker News",
         "published": "2026-09-10T17:01:14Z",
         "importance_hint": 4,
@@ -787,7 +831,7 @@
         "title": "Meta tried to shrink engineering teams around AI",
         "url": "https://leaddev.com/ai/meta-tried-to-shrink-engineering-teams-around-ai",
         "normalized_url": "https://leaddev.com/ai/meta-tried-to-shrink-engineering-teams-around-ai",
-        "summary": "HN points: 15, comments: 6",
+        "summary": "HN points: 16, comments: 6",
         "source": "Hacker News",
         "published": "2026-09-10T16:13:47Z",
         "importance_hint": 4,
@@ -798,53 +842,9 @@
         "title": "One resignation turned the embers of AI fear into a wildfire",
         "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
         "normalized_url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
-        "summary": "HN points: 39, comments: 71",
+        "summary": "HN points: 39, comments: 74",
         "source": "Hacker News",
         "published": "2026-09-10T16:09:43Z",
-        "importance_hint": 3,
-        "metadata": {}
-      },
-      {
-        "category": "news",
-        "title": "Astra for Coding: Why Are We Doing This Again?",
-        "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-        "normalized_url": "https://lucumr.pocoo.org/2026/9/7/astra-why",
-        "summary": "HN points: 11, comments: 8",
-        "source": "Hacker News",
-        "published": "2026-09-10T16:06:29Z",
-        "importance_hint": 3,
-        "metadata": {}
-      },
-      {
-        "category": "news",
-        "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
-        "url": "https://usefeyn.com/blog/multimatte/",
-        "normalized_url": "https://usefeyn.com/blog/multimatte",
-        "summary": "HN points: 34, comments: 7",
-        "source": "Hacker News",
-        "published": "2026-09-10T15:50:25Z",
-        "importance_hint": 4,
-        "metadata": {}
-      },
-      {
-        "category": "news",
-        "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-        "url": "https://cognition.com/blog/swe-2",
-        "normalized_url": "https://cognition.com/blog/swe-2",
-        "summary": "HN points: 326, comments: 133",
-        "source": "Hacker News",
-        "published": "2026-09-10T15:29:47Z",
-        "importance_hint": 4,
-        "metadata": {}
-      },
-      {
-        "category": "news",
-        "title": "Streaming Is Raising Prices Faster Than Cable Ever Did",
-        "url": "https://www.hollywoodreporter.com/business/business-news/streaming-inflation-raising-prices-cable-1236691404/",
-        "normalized_url": "https://www.hollywoodreporter.com/business/business-news/streaming-inflation-raising-prices-cable-1236691404",
-        "summary": "HN points: 13, comments: 7",
-        "source": "Hacker News",
-        "published": "2026-09-10T15:15:11Z",
         "importance_hint": 3,
         "metadata": {}
       },
@@ -1513,6 +1513,19 @@
       },
       {
         "category": "news",
+        "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+        "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+        "normalized_url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal",
+        "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+        "source": "Wired AI",
+        "published": "2026-09-10T23:28:42+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.wired.com/feed/tag/ai/latest/rss"
+        }
+      },
+      {
+        "category": "news",
         "title": "Is AI Actually Going to Kill Us All?",
         "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
         "normalized_url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all",
@@ -1598,19 +1611,6 @@
         "source": "Wired AI",
         "published": "2026-09-09T13:00:00+00:00",
         "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.wired.com/feed/tag/ai/latest/rss"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
-        "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-        "normalized_url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it",
-        "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
-        "source": "Wired AI",
-        "published": "2026-09-08T20:12:51+00:00",
-        "importance_hint": 5,
         "metadata": {
           "feed_url": "https://www.wired.com/feed/tag/ai/latest/rss"
         }
@@ -1825,132 +1825,15 @@
       },
       {
         "category": "news",
-        "title": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
-        "url": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster",
-        "summary": "Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most stacks treat every phrasing as a fresh, fully billed request. Redis LangCache is a fully managed semantic caching service that sits between the application and […] The post Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster app",
-        "source": "MarkTechPost",
-        "published": "2026-09-10T22:34:48+00:00",
-        "importance_hint": 4,
+        "title": "Any Nix package, live in your browser",
+        "url": "https://simonwillison.net/2026/Sep/10/trynix/",
+        "normalized_url": "https://simonwillison.net/2026/Sep/10/trynix",
+        "summary": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser through WebAssembly. That VM can then be booted with any Nix package from the past 13 years. They are URL addressable, so you can navigate to this page: https://trynix.dev/?pkg=python3%403.6.2 Then click \"Load\" and get an interactive shell against a virtual machine running Python 3.6",
+        "source": "Simon Willison",
+        "published": "2026-09-10T23:44:15+00:00",
+        "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100",
-        "url": "https://www.marktechpost.com/2026/09/10/nvidia-details-bionemo-inference-runtime-bioir-2-90x-higher-boltz-2-folding-throughput-and-58-5k-residues-per-gpu-hour-on-8xh100/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/10/nvidia-details-bionemo-inference-runtime-bioir-2-90x-higher-boltz-2-folding-throughput-and-58-5k-residues-per-gpu-hour-on-8xh100",
-        "summary": "NVIDIA has detailed BioNeMo Inference Runtime (BioIR), a Python library that accelerates biomolecular structure-prediction models on NVIDIA GPUs while staying in plain PyTorch. In a matched benchmark on 1,000 human dimer targets across 8xH100 GPUs, BioIR-accelerated Boltz-2 delivered 58.5K successfully folded residues per GPU-hour versus 20.2K for a torch-compiled open-source implementation, a 2.90x gain. The runtime optimizes at 3 layers: custom kernel selection, CUDA Graph capture, and Ray-bas",
-        "source": "MarkTechPost",
-        "published": "2026-09-10T21:57:06+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
-        "url": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call",
-        "summary": "OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness. Developers run the agent’s compute in an OpenAI-managed sandbox, their own infrastructure, or a partner sandbox. Is it deployable? Yes. It is live for all developers in public beta. […] The post OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-10T21:21:58+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse",
-        "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-        "summary": "Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM, SSD capacity, and bandwidth. DeepSeek AI built its newest release around that exact bottleneck. DeepSeek-V4.1-Flash is a multimodal Mixture-of-Experts model with 552B backbone parameters, 196B additional Engram parameters, and a 1M-token context window. It […] The post DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cr",
-        "source": "MarkTechPost",
-        "published": "2026-09-10T07:31:01+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity",
-        "url": "https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity",
-        "summary": "LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a document, page and block tree. DPT-3 Pro grounds to the line, DPT-3 Verity grounds to the word with a confidence score, and Parse billing now counts output characters instead of flat pages. Gen1 code will not run against Gen2 endpoints. The post LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity appeared first on Mark",
-        "source": "MarkTechPost",
-        "published": "2026-09-10T02:13:12+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
-        "url": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities",
-        "summary": "Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache 2.0, and documented as demonstration-only. The post Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-09T22:58:29+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds",
-        "url": "https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds",
-        "summary": "Voice agent teams keep hitting the same wall. The catalog holds 400 voices and the brief asks for the one that is not in it: a Quebecoise receptionist for a Montreal dealership, a narrator in his sixties with lecture hall authority. Briefs outnumber any catalog, and cloning closes the gap one speaker at a time, […] The post Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-09T07:29:13+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer",
-        "url": "https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer",
-        "summary": "Today, Meta has introduced Muse, a personal AI agent that takes actions rather than just answering questions. Muse can send emails, book travel, negotiate bills, and pursue long term goals. It keeps working after you close the app and returns only when it needs approval. The bigger story for AI devs is architectural. Each user […] The post Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-09T04:38:13+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels",
-        "url": "https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels",
-        "summary": "NVIDIA has announced CUDA Rust, a push to make Rust a first-class language for GPU kernels. Two open-source NVlabs projects cover the two CUDA programming models: cuda-oxide compiles SIMT kernels from Rust MIR through Pliron and LLVM to PTX, while cutile-rs JIT-compiles Tile kernels through CUDA Tile IR on stable Rust 1.89+. The post NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-08T19:51:54+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants",
-        "url": "https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants",
-        "summary": "DeepMind's AlphaGenome Atlas maps every single-letter change in the human genome with 1 impact score per variant. The post Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-08T19:00:09+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
+          "feed_url": "https://simonwillison.net/atom/everything/"
         }
       },
       {
@@ -2040,19 +1923,6 @@
         "source": "Simon Willison",
         "published": "2026-09-07T23:54:54+00:00",
         "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://simonwillison.net/atom/everything/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Creepy crawlies",
-        "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
-        "normalized_url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies",
-        "summary": "Creepy crawlies Konstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org , the official Git repository for the Linux kernel: TL;DR: we spend more CPU cycles rendering commits for scrapers than we spend on all other kinds of legitimate access, including git clones. At any one time, across 5 geo-distributed nodes, there are 14 CPU cores doing nothing but rendering git commits as html. I worry about this a lot from the p",
-        "source": "Simon Willison",
-        "published": "2026-09-07T23:08:58+00:00",
-        "importance_hint": 3,
         "metadata": {
           "feed_url": "https://simonwillison.net/atom/everything/"
         }
