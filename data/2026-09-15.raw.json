@@ -1,13 +1,39 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T07:17:43.707276+08:00",
+  "generated_at": "2026-09-15T08:27:30.481420+08:00",
   "counts": {
     "papers": 30,
     "projects": 12,
-    "news": 112
+    "news": 124
   },
   "items": {
     "papers": [
+      {
+        "category": "papers",
+        "title": "Pelican-Sim 1.0: A General World Model Simulator for Embodied Intelligence",
+        "url": "https://huggingface.co/papers/2609.12036",
+        "normalized_url": "https://huggingface.co/papers/2609.12036",
+        "summary": "In this technical report, we propose Pelican-Sim 1.0, a general world model simulator for embodied intelligence that predicts future observations from visual context and robot actions to support downstream learning and decision making. The model incorporates four key design features: (1) Unified action representation: a 28-dimensional action value space covering most mainstream embodiments, keeping one model valid across heterogeneous devices. (2) Action-visual injection: URDF- and camera-render",
+        "source": "HuggingFace Papers",
+        "published": "2026-09-10T00:00:00.000Z",
+        "importance_hint": 5,
+        "metadata": {
+          "paper_id": "2609.12036"
+        }
+      },
+      {
+        "category": "papers",
+        "title": "ReactHuman: A Physics-Grounded Benchmark for Human-Like Reactive Decision-Making in Embodied Multimodal LLMs",
+        "url": "https://huggingface.co/papers/2609.10895",
+        "normalized_url": "https://huggingface.co/papers/2609.10895",
+        "summary": "Reacting to sudden physical hazards (catching a slipping plate, dodging a falling knife) is both a meaningful test of embodied intelligence and a hard requirement for deploying multimodal large language models (MLLMs) as the decision coreof household robots. Existing evaluations, however, probe intuitive physics passively through question answering over videos, or target deliberate, long-horizon tasks such as navigation and rearrangement; none measure whether a model can turn physical understand",
+        "source": "HuggingFace Papers",
+        "published": "2026-09-09T00:00:00.000Z",
+        "importance_hint": 5,
+        "metadata": {
+          "paper_id": "2609.10895"
+        }
+      },
       {
         "category": "papers",
         "title": "Competence-Gated Pooling of Language Models and Priors for Event Forecasting",
@@ -371,210 +397,173 @@
         "metadata": {
           "paper_id": "2609.10539"
         }
-      },
-      {
-        "category": "papers",
-        "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
-        "url": "https://huggingface.co/papers/2609.11561",
-        "normalized_url": "https://huggingface.co/papers/2609.11561",
-        "summary": "Mainstream robotic policies often adopt a Markovian formulation, but many complex real-world manipulation tasks are inherently non-Markovian, requiring long-horizon memory beyond the current observation. Existing memory mechanisms often rely on language summaries, growing visual windows, or their combinations, and may therefore lose fine-grained visual evidence or face a trade-off between history coverage and execution efficiency. We introduce MaP-WAM, a Memory-as-Plans framework that decomposes",
-        "source": "HuggingFace Papers",
-        "published": "2026-09-10T00:00:00.000Z",
-        "importance_hint": 5,
-        "metadata": {
-          "paper_id": "2609.11561"
-        }
-      },
-      {
-        "category": "papers",
-        "title": "Negative Self-Distillation: Learning to Reason by Avoiding Flaws",
-        "url": "https://huggingface.co/papers/2609.11699",
-        "normalized_url": "https://huggingface.co/papers/2609.11699",
-        "summary": "On-Policy Self-Distillation (OPSD) has emerged as a popular paradigm for large language model (LLM) self-improvement, allowing models to act as their own teachers by leveraging privileged information such as ground-truth solutions. However, recent findings indicate that OPSD can severely degrade the performance of LLMs on complex reasoning tasks: By forcing the student to imitate an artificially confident reasoning trace conditioned on privileged information, OPSD inadvertently suppresses expres",
-        "source": "HuggingFace Papers",
-        "published": "2026-09-10T00:00:00.000Z",
-        "importance_hint": 5,
-        "metadata": {
-          "paper_id": "2609.11699"
-        }
       }
     ],
     "projects": [
       {
         "category": "projects",
-        "title": "JustVugg/colibri ⭐+2,233/天",
+        "title": "JustVugg/colibri ⭐+2,173/天",
         "url": "https://github.com/JustVugg/colibri",
         "normalized_url": "https://github.com/JustVugg/colibri",
-        "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 （GitHub Trending · 今日 +2,233 star）",
+        "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 （GitHub Trending · 今日 +2,173 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "2,233"
+          "stars_today": "2,173"
         }
       },
       {
         "category": "projects",
-        "title": "alibaba/open-code-review ⭐+1,796/天",
+        "title": "alibaba/open-code-review ⭐+1,571/天",
         "url": "https://github.com/alibaba/open-code-review",
         "normalized_url": "https://github.com/alibaba/open-code-review",
-        "summary": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. （GitHub Trending · 今日 +1,796 star）",
+        "summary": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. （GitHub Trending · 今日 +1,571 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "1,796"
+          "stars_today": "1,571"
         }
       },
       {
         "category": "projects",
-        "title": "multimodal-art-projection/YuE ⭐+578/天",
+        "title": "multimodal-art-projection/YuE ⭐+559/天",
         "url": "https://github.com/multimodal-art-projection/YuE",
         "normalized_url": "https://github.com/multimodal-art-projection/YuE",
-        "summary": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. （GitHub Trending · 今日 +578 star）",
+        "summary": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. （GitHub Trending · 今日 +559 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "578"
+          "stars_today": "559"
         }
       },
       {
         "category": "projects",
-        "title": "Panniantong/Agent-Reach ⭐+640/天",
+        "title": "Panniantong/Agent-Reach ⭐+651/天",
         "url": "https://github.com/Panniantong/Agent-Reach",
         "normalized_url": "https://github.com/Panniantong/Agent-Reach",
-        "summary": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. （GitHub Trending · 今日 +640 star）",
+        "summary": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. （GitHub Trending · 今日 +651 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "640"
+          "stars_today": "651"
         }
       },
       {
         "category": "projects",
-        "title": "asgeirtj/system_prompts_leaks ⭐+770/天",
+        "title": "asgeirtj/system_prompts_leaks ⭐+764/天",
         "url": "https://github.com/asgeirtj/system_prompts_leaks",
         "normalized_url": "https://github.com/asgeirtj/system_prompts_leaks",
-        "summary": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. （GitHub Trending · 今日 +770 star）",
+        "summary": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. （GitHub Trending · 今日 +764 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "770"
+          "stars_today": "764"
         }
       },
       {
         "category": "projects",
-        "title": "rlaope/oh-my-hermes ⭐+52/天",
+        "title": "rlaope/oh-my-hermes ⭐+77/天",
         "url": "https://github.com/rlaope/oh-my-hermes",
         "normalized_url": "https://github.com/rlaope/oh-my-hermes",
-        "summary": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages （GitHub Trending · 今日 +52 star）",
+        "summary": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages （GitHub Trending · 今日 +77 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "52"
+          "stars_today": "77"
         }
       },
       {
         "category": "projects",
-        "title": "localsend/localsend ⭐+311/天",
+        "title": "localsend/localsend ⭐+251/天",
         "url": "https://github.com/localsend/localsend",
         "normalized_url": "https://github.com/localsend/localsend",
-        "summary": "An open-source cross-platform alternative to AirDrop （GitHub Trending · 今日 +311 star）",
+        "summary": "An open-source cross-platform alternative to AirDrop （GitHub Trending · 今日 +251 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 4,
         "metadata": {
-          "stars_today": "311"
+          "stars_today": "251"
         }
       },
       {
         "category": "projects",
-        "title": "TauricResearch/TradingAgents ⭐+756/天",
+        "title": "TauricResearch/TradingAgents ⭐+745/天",
         "url": "https://github.com/TauricResearch/TradingAgents",
         "normalized_url": "https://github.com/TauricResearch/TradingAgents",
-        "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework （GitHub Trending · 今日 +756 star）",
+        "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework （GitHub Trending · 今日 +745 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "756"
+          "stars_today": "745"
         }
       },
       {
         "category": "projects",
-        "title": "tech-leads-club/agent-skills ⭐+506/天",
+        "title": "tech-leads-club/agent-skills ⭐+512/天",
         "url": "https://github.com/tech-leads-club/agent-skills",
         "normalized_url": "https://github.com/tech-leads-club/agent-skills",
-        "summary": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. （GitHub Trending · 今日 +506 star）",
+        "summary": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. （GitHub Trending · 今日 +512 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "506"
+          "stars_today": "512"
         }
       },
       {
         "category": "projects",
-        "title": "huggingface/transformers ⭐+528/天",
+        "title": "huggingface/transformers ⭐+536/天",
         "url": "https://github.com/huggingface/transformers",
         "normalized_url": "https://github.com/huggingface/transformers",
-        "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. （GitHub Trending · 今日 +528 star）",
+        "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. （GitHub Trending · 今日 +536 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "528"
+          "stars_today": "536"
         }
       },
       {
         "category": "projects",
-        "title": "Crosstalk-Solutions/project-nomad ⭐+26/天",
+        "title": "Crosstalk-Solutions/project-nomad ⭐+40/天",
         "url": "https://github.com/Crosstalk-Solutions/project-nomad",
         "normalized_url": "https://github.com/Crosstalk-Solutions/project-nomad",
-        "summary": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. （GitHub Trending · 今日 +26 star）",
+        "summary": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. （GitHub Trending · 今日 +40 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 4,
         "metadata": {
-          "stars_today": "26"
+          "stars_today": "40"
         }
       },
       {
         "category": "projects",
-        "title": "SnailSploit/Claude-Red ⭐+606/天",
+        "title": "SnailSploit/Claude-Red ⭐+579/天",
         "url": "https://github.com/SnailSploit/Claude-Red",
         "normalized_url": "https://github.com/SnailSploit/Claude-Red",
-        "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. （GitHub Trending · 今日 +606 star）",
+        "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. （GitHub Trending · 今日 +579 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 4,
         "metadata": {
-          "stars_today": "606"
+          "stars_today": "579"
         }
       }
     ],
     "news": [
       {
         "category": "news",
-        "title": "LLMs are real, AI is fake",
-        "url": "https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake",
-        "normalized_url": "https://pluralistic.net/2026/09/12/god-in-the-box",
-        "summary": "HN points: 14, comments: 1",
-        "source": "Hacker News",
-        "published": "2026-09-14T22:32:20Z",
-        "importance_hint": 3,
-        "metadata": {}
-      },
-      {
-        "category": "news",
         "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
         "url": "https://www.effort.news/irregular",
         "normalized_url": "https://www.effort.news/irregular",
-        "summary": "HN points: 89, comments: 34",
+        "summary": "HN points: 90, comments: 34",
         "source": "Hacker News",
         "published": "2026-09-14T21:15:01Z",
         "importance_hint": 4,
@@ -582,10 +571,21 @@
       },
       {
         "category": "news",
+        "title": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite",
+        "url": "https://www.reuters.com/world/airbaltic-files-chapter-11-bankruptcy-new-york-2026-09-14/",
+        "normalized_url": "https://www.reuters.com/world/airbaltic-files-chapter-11-bankruptcy-new-york-2026-09-14",
+        "summary": "HN points: 11, comments: 1",
+        "source": "Hacker News",
+        "published": "2026-09-14T20:28:55Z",
+        "importance_hint": 3,
+        "metadata": {}
+      },
+      {
+        "category": "news",
         "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
         "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
         "normalized_url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-        "summary": "HN points: 82, comments: 97",
+        "summary": "HN points: 95, comments: 105",
         "source": "Hacker News",
         "published": "2026-09-14T19:56:20Z",
         "importance_hint": 4,
@@ -596,7 +596,7 @@
         "title": "Oracle’s 6am layoff emails hit staff amid new wave of cuts",
         "url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
         "normalized_url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
-        "summary": "HN points: 139, comments: 129",
+        "summary": "HN points: 145, comments: 136",
         "source": "Hacker News",
         "published": "2026-09-14T19:05:15Z",
         "importance_hint": 3,
@@ -618,7 +618,7 @@
         "title": "Pion, an agent designed to run any company autonomously",
         "url": "https://andonlabs.com/blog/why-we-built-pion",
         "normalized_url": "https://andonlabs.com/blog/why-we-built-pion",
-        "summary": "HN points: 241, comments: 251",
+        "summary": "HN points: 272, comments: 282",
         "source": "Hacker News",
         "published": "2026-09-14T17:16:06Z",
         "importance_hint": 4,
@@ -662,7 +662,7 @@
         "title": "Why don't machine learning research agents overfit?",
         "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
         "normalized_url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-        "summary": "HN points: 93, comments: 53",
+        "summary": "HN points: 99, comments: 54",
         "source": "Hacker News",
         "published": "2026-09-14T16:32:23Z",
         "importance_hint": 4,
@@ -673,7 +673,7 @@
         "title": "When LLM judges agree, should we believe them?",
         "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
         "normalized_url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-        "summary": "HN points: 47, comments: 37",
+        "summary": "HN points: 48, comments: 37",
         "source": "Hacker News",
         "published": "2026-09-14T16:29:30Z",
         "importance_hint": 3,
@@ -706,7 +706,7 @@
         "title": "For AI leaders Doom is a form of hype",
         "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
         "normalized_url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype",
-        "summary": "HN points: 122, comments: 169",
+        "summary": "HN points: 122, comments: 170",
         "source": "Hacker News",
         "published": "2026-09-14T16:15:05Z",
         "importance_hint": 3,
@@ -717,11 +717,76 @@
         "title": "Claude is a Contrarian",
         "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
         "normalized_url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-        "summary": "HN points: 107, comments: 134",
+        "summary": "HN points: 110, comments: 137",
         "source": "Hacker News",
         "published": "2026-09-14T16:14:24Z",
         "importance_hint": 3,
         "metadata": {}
+      },
+      {
+        "category": "news",
+        "title": "罗永浩，成了所有公关的 “试金石”？",
+        "url": "https://www.36kr.com/p/3983882366581512",
+        "normalized_url": "https://www.36kr.com/p/3983882366581512",
+        "summary": "故意给野人先生“挖坑”，还“好心”提醒一句，你别跳啊……",
+        "source": "36Kr AI",
+        "published": "2026-09-15T00:10:04+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+        }
+      },
+      {
+        "category": "news",
+        "title": "8点1氪丨选手赛中失禁污染赛道，HYROX中国宣布整改；机构预计美股明年将暴跌21%；苹果推出Siri人工智能",
+        "url": "https://www.36kr.com/p/3983906594257667",
+        "normalized_url": "https://www.36kr.com/p/3983906594257667",
+        "summary": "HYROX北京站选手赛场失禁引发争议，赛事方发布公告承认规则漏洞并推出整改措施。",
+        "source": "36Kr AI",
+        "published": "2026-09-15T00:03:39+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+        }
+      },
+      {
+        "category": "news",
+        "title": "微信新增音频入口、试水AI社交，这些新动作释放出哪些信号？",
+        "url": "https://www.36kr.com/p/3983224358107910",
+        "normalized_url": "https://www.36kr.com/p/3983224358107910",
+        "summary": "微信进一步拥抱AI",
+        "source": "36Kr AI",
+        "published": "2026-09-14T23:48:16+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+        }
+      },
+      {
+        "category": "news",
+        "title": "AI推理大爆发，“悲催”闪迪真有凤凰涅槃？",
+        "url": "https://www.36kr.com/p/3983256958614280",
+        "normalized_url": "https://www.36kr.com/p/3983256958614280",
+        "summary": "这波“纯血NAND”真香",
+        "source": "36Kr AI",
+        "published": "2026-09-14T23:36:21+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+        }
+      },
+      {
+        "category": "news",
+        "title": "刚刚，豆包手机助手正式发布，新机马上就来？",
+        "url": "https://www.36kr.com/p/3983256972835849",
+        "normalized_url": "https://www.36kr.com/p/3983256972835849",
+        "summary": "豆包手机助手发布。",
+        "source": "36Kr AI",
+        "published": "2026-09-14T23:18:33+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+        }
       },
       {
         "category": "news",
@@ -790,67 +855,132 @@
       },
       {
         "category": "news",
-        "title": "恩格斯停顿的本质是“社会肌少性肥胖”",
-        "url": "https://www.36kr.com/p/3983000847645442",
-        "normalized_url": "https://www.36kr.com/p/3983000847645442",
-        "summary": "经济在长胖，社会在萎缩。",
-        "source": "36Kr AI",
-        "published": "2026-09-14T14:27:02+00:00",
-        "importance_hint": 3,
+        "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+        "url": "https://www.qbitai.com/2026/09/489105.html",
+        "normalized_url": "https://www.qbitai.com/2026/09/489105.html",
+        "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
+        "source": "量子位",
+        "published": "2026-09-14T09:47:07+00:00",
+        "importance_hint": 4,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://www.qbitai.com/rss"
         }
       },
       {
         "category": "news",
-        "title": "基金代销之变：2万亿蚂蚁与沉默的银行",
-        "url": "https://www.36kr.com/p/3983037081287424",
-        "normalized_url": "https://www.36kr.com/p/3983037081287424",
-        "summary": "2026年上半年，可以视作中国财富管理行业的一道分水岭。",
-        "source": "36Kr AI",
-        "published": "2026-09-14T14:26:18+00:00",
+        "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+        "url": "https://www.qbitai.com/2026/09/489106.html",
+        "normalized_url": "https://www.qbitai.com/2026/09/489106.html",
+        "summary": "业界首个5A算电协同认证",
+        "source": "量子位",
+        "published": "2026-09-14T09:46:40+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://www.qbitai.com/rss"
         }
       },
       {
         "category": "news",
-        "title": "储能踩刹车，谁是赢家谁是输家",
-        "url": "https://www.36kr.com/p/3983044292786949",
-        "normalized_url": "https://www.36kr.com/p/3983044292786949",
-        "summary": "跑马圈地的日子结束了",
-        "source": "36Kr AI",
-        "published": "2026-09-14T14:25:23+00:00",
-        "importance_hint": 3,
+        "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+        "url": "https://www.qbitai.com/2026/09/489037.html",
+        "normalized_url": "https://www.qbitai.com/2026/09/489037.html",
+        "summary": "",
+        "source": "量子位",
+        "published": "2026-09-14T09:36:28+00:00",
+        "importance_hint": 4,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://www.qbitai.com/rss"
         }
       },
       {
         "category": "news",
-        "title": "MIT重磅报告：当AI能完成MIT的几乎任何作业，大学教育该如何调整？",
-        "url": "https://www.36kr.com/p/3983070079957762",
-        "normalized_url": "https://www.36kr.com/p/3983070079957762",
-        "summary": "“该报告是一份行动号召。”",
-        "source": "36Kr AI",
-        "published": "2026-09-14T14:20:33+00:00",
+        "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+        "url": "https://www.qbitai.com/2026/09/489023.html",
+        "normalized_url": "https://www.qbitai.com/2026/09/489023.html",
+        "summary": "AI 蛋白质设计迈入“动态时代”",
+        "source": "量子位",
+        "published": "2026-09-14T08:17:22+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://www.qbitai.com/rss"
         }
       },
       {
         "category": "news",
-        "title": "中国算力第一省，为什么是它？",
-        "url": "https://www.36kr.com/p/3983072252918535",
-        "normalized_url": "https://www.36kr.com/p/3983072252918535",
-        "summary": "河北搞算力，有哪些优势？",
-        "source": "36Kr AI",
-        "published": "2026-09-14T14:18:15+00:00",
+        "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+        "url": "https://www.qbitai.com/2026/09/488933.html",
+        "normalized_url": "https://www.qbitai.com/2026/09/488933.html",
+        "summary": "让模型和设备共同进化",
+        "source": "量子位",
+        "published": "2026-09-14T08:08:29+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.qbitai.com/rss"
+        }
+      },
+      {
+        "category": "news",
+        "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+        "url": "https://www.qbitai.com/2026/09/488912.html",
+        "normalized_url": "https://www.qbitai.com/2026/09/488912.html",
+        "summary": "险资、券商与头部创投持续加码",
+        "source": "量子位",
+        "published": "2026-09-14T07:55:12+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://www.qbitai.com/rss"
+        }
+      },
+      {
+        "category": "news",
+        "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
+        "url": "https://www.qbitai.com/2026/09/488875.html",
+        "normalized_url": "https://www.qbitai.com/2026/09/488875.html",
+        "summary": "共话AI时代的生活、影像与创造。",
+        "source": "量子位",
+        "published": "2026-09-14T06:20:36+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://www.qbitai.com/rss"
+        }
+      },
+      {
+        "category": "news",
+        "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+        "url": "https://www.qbitai.com/2026/09/488832.html",
+        "normalized_url": "https://www.qbitai.com/2026/09/488832.html",
+        "summary": "小模型突破瓶颈，旗舰模型打开新空间",
+        "source": "量子位",
+        "published": "2026-09-14T03:45:46+00:00",
+        "importance_hint": 5,
+        "metadata": {
+          "feed_url": "https://www.qbitai.com/rss"
+        }
+      },
+      {
+        "category": "news",
+        "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
+        "url": "https://www.qbitai.com/2026/09/488725.html",
+        "normalized_url": "https://www.qbitai.com/2026/09/488725.html",
+        "summary": "这家中国公司，刚跑完了物理闭环里最难的一段路",
+        "source": "量子位",
+        "published": "2026-09-14T03:18:42+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.qbitai.com/rss"
+        }
+      },
+      {
+        "category": "news",
+        "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
+        "url": "https://www.qbitai.com/2026/09/488699.html",
+        "normalized_url": "https://www.qbitai.com/2026/09/488699.html",
+        "summary": "还是太嫩了啊Dario",
+        "source": "量子位",
+        "published": "2026-09-14T02:56:45+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://www.qbitai.com/rss"
         }
       },
       {
@@ -955,6 +1085,32 @@
         "importance_hint": 4,
         "metadata": {
           "feed_url": "https://www.infoq.cn/feed.xml"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
+        "url": "https://sspai.com/post/114357",
+        "normalized_url": "https://sspai.com/post/114357",
+        "summary": "自从 Agentic AI 火起来，我就一直在期待一件事情：有一天我能用自然语言来操控我的电脑做事情，又或者可以用自然语言告诉一个程序它应该做什么 1 。 两年多前，微软推出 Office Copilot Pro 时，铺天盖地的宣传语仿佛在向大家宣告 AI 已经无所不能。实际 测试 下来我才发现，Copilot Pro 不仅经常误解我发送的自然语言指令，而且实际 Office 操作水平也令我不敢恭维。 过去两年里，大模型的能力突飞猛进，各类配套插件与工具也如雨后春笋般涌现。这不禁让我越发好奇：在今天的日常办公中，当我们用 AI 辅助处理 Excel 时，哪些东西会影响到交付成品的质量？ 但实测下来我发现，影响最终成品的因素远比想象中复杂。下面我就用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。 TL;DR AI 写公式的能力已经相当成熟，但复杂工作流后的交付依然存在着不小的问题； 载体（Harness）的重要性不亚于模型，其中 Office 侧边栏加载项是最好的载体； 在用 AI 操作 Excel 文件时，一",
+        "source": "SSPAI AI",
+        "published": "2026-09-14T08:35:27+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://rsshub.rssforever.com/sspai/tag/AI"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Python 潮流周刊#167：用 1024 字节写个 Python 解释器",
+        "url": "https://sspai.com/post/114494",
+        "normalized_url": "https://sspai.com/post/114494",
+        "summary": "本周刊由 Python猫 出品，精心筛选国内外的 400+ 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。愿景：帮助所有读者精进 Python 技术，并增长职业和副业的收入。 温馨提示： 在微信关注 Python猫 ，发送数字“ 9 ”，即可领取 9 折优惠码，订阅专栏可享 15 元优惠。 去专栏阅读全文： 全文链接 分享了 12 篇文章，12 个开源项目 以下是本期标题摘要： 🦄文章&教程 ① Python 的 set 与 dict 也会有二次方耗时 ② 读一次 __dict__ 就会永久拖慢属性访问 ③ 用 1024 字节写一个 Python 解释器 ④ 给 NumPy 的 ufunc 教点新把戏 ⑤ 跨服务边界的插件架构：用 Pydantic 和 FastAPI 定义 API 契约（上） ⑥ 从 pandas 迁移到 Polars 的策略 ⑦ 软弃用 re.match() ⑧ 什么时候该用 NotImplemented ⑨ Python 大版本升级的并跑策略 ⑩ 不抓狂地测试异步 Python ⑪ 有用户，有收入，AI 应用却不是好生意 ",
+        "source": "SSPAI AI",
+        "published": "2026-09-12T13:31:28+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://rsshub.rssforever.com/sspai/tag/AI"
         }
       },
       {
