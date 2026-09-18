@@ -1,10 +1,10 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T06:58:28.172599+08:00",
+  "generated_at": "2026-09-18T08:03:12.332480+08:00",
   "counts": {
     "papers": 38,
     "projects": 16,
-    "news": 132
+    "news": 120
   },
   "items": {
     "papers": [
@@ -490,28 +490,28 @@
     "projects": [
       {
         "category": "projects",
-        "title": "alibaba/open-code-review ⭐+3,290/天",
+        "title": "alibaba/open-code-review ⭐+3,286/天",
         "url": "https://github.com/alibaba/open-code-review",
         "normalized_url": "https://github.com/alibaba/open-code-review",
-        "summary": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. （GitHub Trending · 今日 +3,290 star）",
+        "summary": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. （GitHub Trending · 今日 +3,286 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "3,290"
+          "stars_today": "3,286"
         }
       },
       {
         "category": "projects",
-        "title": "cloudflare/security-audit-skill ⭐+3,606/天",
+        "title": "cloudflare/security-audit-skill ⭐+3,607/天",
         "url": "https://github.com/cloudflare/security-audit-skill",
         "normalized_url": "https://github.com/cloudflare/security-audit-skill",
-        "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings （GitHub Trending · 今日 +3,606 star）",
+        "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings （GitHub Trending · 今日 +3,607 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "3,606"
+          "stars_today": "3,607"
         }
       },
       {
@@ -529,28 +529,28 @@
       },
       {
         "category": "projects",
-        "title": "Tencent/BrowserSkill ⭐+1,350/天",
+        "title": "Tencent/BrowserSkill ⭐+1,302/天",
         "url": "https://github.com/Tencent/BrowserSkill",
         "normalized_url": "https://github.com/Tencent/BrowserSkill",
-        "summary": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. （GitHub Trending · 今日 +1,350 star）",
+        "summary": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. （GitHub Trending · 今日 +1,302 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "1,350"
+          "stars_today": "1,302"
         }
       },
       {
         "category": "projects",
-        "title": "alphaXiv/OpenResearch ⭐+940/天",
+        "title": "alphaXiv/OpenResearch ⭐+939/天",
         "url": "https://github.com/alphaXiv/OpenResearch",
         "normalized_url": "https://github.com/alphaXiv/OpenResearch",
-        "summary": "Turn your coding agents into research agents （GitHub Trending · 今日 +940 star）",
+        "summary": "Turn your coding agents into research agents （GitHub Trending · 今日 +939 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "940"
+          "stars_today": "939"
         }
       },
       {
@@ -581,140 +581,142 @@
       },
       {
         "category": "projects",
-        "title": "Tencent/WeKnora ⭐+1,123/天",
+        "title": "Tencent/WeKnora ⭐+1,125/天",
         "url": "https://github.com/Tencent/WeKnora",
         "normalized_url": "https://github.com/Tencent/WeKnora",
-        "summary": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. （GitHub Trending · 今日 +1,123 star）",
+        "summary": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. （GitHub Trending · 今日 +1,125 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "1,123"
+          "stars_today": "1,125"
         }
       },
       {
         "category": "projects",
-        "title": "jamiepine/voicebox ⭐+665/天",
+        "title": "jamiepine/voicebox ⭐+667/天",
         "url": "https://github.com/jamiepine/voicebox",
         "normalized_url": "https://github.com/jamiepine/voicebox",
-        "summary": "The open-source AI voice studio. Clone, dictate, create. （GitHub Trending · 今日 +665 star）",
+        "summary": "The open-source AI voice studio. Clone, dictate, create. （GitHub Trending · 今日 +667 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 4,
         "metadata": {
-          "stars_today": "665"
+          "stars_today": "667"
         }
       },
       {
         "category": "projects",
-        "title": "affaan-m/ECC ⭐+1,173/天",
+        "title": "affaan-m/ECC ⭐+1,171/天",
         "url": "https://github.com/affaan-m/ECC",
         "normalized_url": "https://github.com/affaan-m/ECC",
-        "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. （GitHub Trending · 今日 +1,173 star）",
+        "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. （GitHub Trending · 今日 +1,171 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "1,173"
+          "stars_today": "1,171"
         }
       },
       {
         "category": "projects",
-        "title": "roboflow/supervision ⭐+327/天",
+        "title": "roboflow/supervision ⭐+329/天",
         "url": "https://github.com/roboflow/supervision",
         "normalized_url": "https://github.com/roboflow/supervision",
-        "summary": "We write your reusable computer vision tools. 💜 （GitHub Trending · 今日 +327 star）",
+        "summary": "We write your reusable computer vision tools. 💜 （GitHub Trending · 今日 +329 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 4,
         "metadata": {
-          "stars_today": "327"
+          "stars_today": "329"
         }
       },
       {
         "category": "projects",
-        "title": "JustVugg/colibri ⭐+872/天",
+        "title": "JustVugg/colibri ⭐+873/天",
         "url": "https://github.com/JustVugg/colibri",
         "normalized_url": "https://github.com/JustVugg/colibri",
-        "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 （GitHub Trending · 今日 +872 star）",
+        "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 （GitHub Trending · 今日 +873 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "872"
+          "stars_today": "873"
         }
       },
       {
         "category": "projects",
-        "title": "TencentCloud/Octop ⭐+386/天",
+        "title": "TencentCloud/Octop ⭐+367/天",
         "url": "https://github.com/TencentCloud/Octop",
         "normalized_url": "https://github.com/TencentCloud/Octop",
-        "summary": "A smarter, self-hosted AI assistant — multi-user, multi-agent. （GitHub Trending · 今日 +386 star）",
+        "summary": "A smarter, self-hosted AI assistant — multi-user, multi-agent. （GitHub Trending · 今日 +367 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "386"
+          "stars_today": "367"
         }
       },
       {
         "category": "projects",
-        "title": "cline/cline ⭐+381/天",
+        "title": "cline/cline ⭐+380/天",
         "url": "https://github.com/cline/cline",
         "normalized_url": "https://github.com/cline/cline",
-        "summary": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant. （GitHub Trending · 今日 +381 star）",
+        "summary": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant. （GitHub Trending · 今日 +380 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "381"
+          "stars_today": "380"
         }
       },
       {
         "category": "projects",
-        "title": "coder/coder ⭐+204/天",
+        "title": "coder/coder ⭐+145/天",
         "url": "https://github.com/coder/coder",
         "normalized_url": "https://github.com/coder/coder",
-        "summary": "Secure environments for developers and their agents （GitHub Trending · 今日 +204 star）",
+        "summary": "Secure environments for developers and their agents （GitHub Trending · 今日 +145 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "204"
+          "stars_today": "145"
         }
       },
       {
         "category": "projects",
-        "title": "n8n-io/n8n ⭐+319/天",
+        "title": "n8n-io/n8n ⭐+281/天",
         "url": "https://github.com/n8n-io/n8n",
         "normalized_url": "https://github.com/n8n-io/n8n",
-        "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. （GitHub Trending · 今日 +319 star）",
+        "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. （GitHub Trending · 今日 +281 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 4,
         "metadata": {
-          "stars_today": "319"
+          "stars_today": "281"
         }
       }
     ],
     "news": [
       {
         "category": "news",
-        "title": "How to Write with an LLM",
-        "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-        "normalized_url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
-        "summary": "HN points: 19, comments: 6",
-        "source": "Hacker News",
-        "published": "2026-09-17T21:48:38Z",
+        "title": "How To Write With An LLM",
+        "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+        "normalized_url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm",
+        "summary": "How To Write With An LLM Thomas Ptacek on using LLMs as copyeditors, not as writing assistants: Rule Number One: You may not use a single word an LLM suggests to you. [...] I think that as a form of intellectual personal protective equipment you should adopt the rule that any specific turn of phrase an LLM suggests is off limits. Be strict about the rule! I won't let LLMs write content for my blog, but I use them for fact-checking, spelling and grammar and as an occasional thesaurus (see my proo",
+        "source": "Hacker News, Simon Willison",
+        "published": "2026-09-17T23:37:27+00:00",
         "importance_hint": 3,
-        "metadata": {}
+        "metadata": {
+          "feed_url": "https://simonwillison.net/atom/everything/"
+        }
       },
       {
         "category": "news",
         "title": "Eric S. Raymond – This is the case against AI Doom – pass it on",
         "url": "https://twitter.com/esrtweet/status/2100530353270100334",
         "normalized_url": "https://twitter.com/esrtweet/status/2100530353270100334",
-        "summary": "HN points: 13, comments: 4",
+        "summary": "HN points: 13, comments: 5",
         "source": "Hacker News",
         "published": "2026-09-17T21:29:26Z",
         "importance_hint": 3,
@@ -725,7 +727,7 @@
         "title": "Sex, AI, and the Apocalypse",
         "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
         "normalized_url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse",
-        "summary": "HN points: 54, comments: 31",
+        "summary": "HN points: 108, comments: 86",
         "source": "Hacker News",
         "published": "2026-09-17T21:15:52Z",
         "importance_hint": 3,
@@ -736,7 +738,7 @@
         "title": "How Uber Protects Against Retry Storms",
         "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
         "normalized_url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms",
-        "summary": "HN points: 12, comments: 7",
+        "summary": "HN points: 22, comments: 13",
         "source": "Hacker News",
         "published": "2026-09-17T21:14:32Z",
         "importance_hint": 3,
@@ -747,7 +749,7 @@
         "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
         "url": "https://prismml.com/news/bonsai-2-27b",
         "normalized_url": "https://prismml.com/news/bonsai-2-27b",
-        "summary": "HN points: 96, comments: 28",
+        "summary": "HN points: 144, comments: 46",
         "source": "Hacker News",
         "published": "2026-09-17T21:13:31Z",
         "importance_hint": 3,
@@ -758,7 +760,7 @@
         "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
         "url": "https://bend-lang.com/",
         "normalized_url": "https://bend-lang.com",
-        "summary": "HN points: 191, comments: 104",
+        "summary": "HN points: 224, comments: 121",
         "source": "Hacker News",
         "published": "2026-09-17T20:36:13Z",
         "importance_hint": 3,
@@ -769,7 +771,7 @@
         "title": "Microsoft, OpenAI lose fight to hide internal docs admitting scraping is theft",
         "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
         "normalized_url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history",
-        "summary": "HN points: 24, comments: 2",
+        "summary": "HN points: 31, comments: 3",
         "source": "Hacker News",
         "published": "2026-09-17T20:16:52Z",
         "importance_hint": 5,
@@ -791,7 +793,7 @@
         "title": "Canto: A speech model built for the real world",
         "url": "https://wisprflow.ai/canto",
         "normalized_url": "https://wisprflow.ai/canto",
-        "summary": "HN points: 27, comments: 11",
+        "summary": "HN points: 32, comments: 12",
         "source": "Hacker News",
         "published": "2026-09-17T18:32:50Z",
         "importance_hint": 4,
@@ -813,7 +815,7 @@
         "title": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
         "url": "https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties",
         "normalized_url": "https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties",
-        "summary": "HN points: 133, comments: 55",
+        "summary": "HN points: 135, comments: 57",
         "source": "Hacker News",
         "published": "2026-09-17T17:20:14Z",
         "importance_hint": 3,
@@ -824,7 +826,7 @@
         "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
         "url": "https://arxiv.org/abs/2609.18842",
         "normalized_url": "https://arxiv.org/abs/2609.18842",
-        "summary": "HN points: 91, comments: 26",
+        "summary": "HN points: 101, comments: 26",
         "source": "Hacker News",
         "published": "2026-09-17T16:55:14Z",
         "importance_hint": 3,
@@ -835,7 +837,7 @@
         "title": "Show HN: AutoBot – live voice control for long-running AI work",
         "url": "https://github.com/demeyer1/Autobot",
         "normalized_url": "https://github.com/demeyer1/Autobot",
-        "summary": "HN points: 14, comments: 3",
+        "summary": "HN points: 15, comments: 3",
         "source": "Hacker News",
         "published": "2026-09-17T16:54:57Z",
         "importance_hint": 3,
@@ -846,7 +848,7 @@
         "title": "Show HN: Craigslist for agent skills, curated by a human",
         "url": "https://skillbay.sh/",
         "normalized_url": "https://skillbay.sh",
-        "summary": "HN points: 19, comments: 16",
+        "summary": "HN points: 20, comments: 16",
         "source": "Hacker News",
         "published": "2026-09-17T16:53:51Z",
         "importance_hint": 4,
@@ -865,6 +867,45 @@
       },
       {
         "category": "news",
+        "title": "8点1氪丨宇树科技市值重回2000亿；影视飓风Tim测评iPhone Duo称烫到握不住；罗永浩否认为钟薛高造势",
+        "url": "https://www.36kr.com/p/3988151372036873",
+        "normalized_url": "https://www.36kr.com/p/3988151372036873",
+        "summary": "人形机器人概念震荡拉升，宇树科技盘中一度涨超7%，市值重回2000亿。",
+        "source": "36Kr AI",
+        "published": "2026-09-17T23:57:39+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+        }
+      },
+      {
+        "category": "news",
+        "title": "iPhone的生态位，被豆包手机抢了吗？",
+        "url": "https://www.36kr.com/p/3987487600187014",
+        "normalized_url": "https://www.36kr.com/p/3987487600187014",
+        "summary": "Agent即入口，豆包又近了一步。",
+        "source": "36Kr AI",
+        "published": "2026-09-17T23:55:00+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+        }
+      },
+      {
+        "category": "news",
+        "title": "OpenAI被曝雪藏数百个证明，你死磕3年的题，答案可能早在服务器上",
+        "url": "https://www.36kr.com/p/3987517660445700",
+        "normalized_url": "https://www.36kr.com/p/3987517660445700",
+        "summary": "AI破解大量数学难题未公开，冲击学术规则引发学界不安。",
+        "source": "36Kr AI",
+        "published": "2026-09-17T23:52:23+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
+        }
+      },
+      {
+        "category": "news",
         "title": "曾被AI误杀的赛道，大反攻了",
         "url": "https://www.36kr.com/p/3987439493256832",
         "normalized_url": "https://www.36kr.com/p/3987439493256832",
@@ -873,7 +914,7 @@
         "published": "2026-09-17T13:29:21+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -886,7 +927,7 @@
         "published": "2026-09-17T13:26:56+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -899,7 +940,7 @@
         "published": "2026-09-17T13:24:04+00:00",
         "importance_hint": 4,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -912,7 +953,7 @@
         "published": "2026-09-17T13:23:30+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -925,7 +966,7 @@
         "published": "2026-09-17T13:21:32+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -938,7 +979,7 @@
         "published": "2026-09-17T13:19:24+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -951,46 +992,7 @@
         "published": "2026-09-17T13:13:53+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "问界，终于还是走出了华为的门店",
-        "url": "https://www.36kr.com/p/3987229808777091",
-        "normalized_url": "https://www.36kr.com/p/3987229808777091",
-        "summary": "当初你说要分开，分开就分开。",
-        "source": "36Kr AI",
-        "published": "2026-09-17T13:09:29+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "智谱融资背后：一场没有枪声的卡位战",
-        "url": "https://www.36kr.com/p/3987202831456137",
-        "normalized_url": "https://www.36kr.com/p/3987202831456137",
-        "summary": "一场空间与时间的交换。",
-        "source": "36Kr AI",
-        "published": "2026-09-17T13:07:13+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "AI时代最容易被忽视的苦力活：给机器人“擦屁股”的人",
-        "url": "https://www.36kr.com/p/3987416739003138",
-        "normalized_url": "https://www.36kr.com/p/3987416739003138",
-        "summary": "下一个Scale AI，会出在具身智能的数据清洗吗？",
-        "source": "36Kr AI",
-        "published": "2026-09-17T13:01:10+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -1229,6 +1231,32 @@
       },
       {
         "category": "news",
+        "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+        "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+        "normalized_url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories",
+        "summary": "The round values the data center giant at $30.9 billion.",
+        "source": "TechCrunch AI",
+        "published": "2026-09-17T23:25:52+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Google DeepMind launches institute to widen the AGI debate",
+        "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+        "normalized_url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate",
+        "summary": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+        "source": "TechCrunch AI",
+        "published": "2026-09-17T23:21:17+00:00",
+        "importance_hint": 5,
+        "metadata": {
+          "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+        }
+      },
+      {
+        "category": "news",
         "title": "PrismML hopes its tiny LLM will change how we all use AI",
         "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
         "normalized_url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai",
@@ -1242,7 +1270,7 @@
       },
       {
         "category": "news",
-        "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+        "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
         "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
         "normalized_url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
         "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
@@ -1326,32 +1354,6 @@
         "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
         "source": "TechCrunch AI",
         "published": "2026-09-17T17:26:25+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-        "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-        "normalized_url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire",
-        "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-        "source": "TechCrunch AI",
-        "published": "2026-09-17T17:15:59+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-        "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-        "normalized_url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai",
-        "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
-        "source": "TechCrunch AI",
-        "published": "2026-09-17T17:15:00+00:00",
         "importance_hint": 3,
         "metadata": {
           "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/"
@@ -1762,132 +1764,15 @@
       },
       {
         "category": "news",
-        "title": "Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads",
-        "url": "https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads",
-        "summary": "Microsoft's AKS engineering team open-sourced TauGrid on August 28, 2026, packaging the tau CLI, Kueue queueing, KubeRay orchestration, GPU node health monitoring and observability into one Helm install. It is MIT licensed and deployable now on any Kubernetes 1.30+ cluster with GPU nodes, kubectl and Helm 3.0 or later. The post Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-17T21:21:08+00:00",
-        "importance_hint": 4,
+        "title": "Be alert: targeted attacks on prominent Rustaceans",
+        "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+        "normalized_url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans",
+        "summary": "Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware. A video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to insta",
+        "source": "Simon Willison",
+        "published": "2026-09-17T23:59:19+00:00",
+        "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
-        "url": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop",
-        "summary": "Anthropic redesigned Projects in Claude Code. The old project was a folder: some files plus one chat. The new one is a single ongoing conversation where Claude acts as coordinator. You describe work, and Claude decides what becomes a thread. Each thread is a full Claude Code cloud session running on its own branch and […] The post Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-17T20:45:04+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
-        "url": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training",
-        "summary": "OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys. The post OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-17T07:35:37+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Google Research Introduces Retrieve-for-Train (R4T): An RL-Compiled Diffusion Retriever for 12× to 20× Faster Query Fan-Out",
-        "url": "https://www.marktechpost.com/2026/09/16/google-research-introduces-retrieve-for-train-r4t-an-rl-compiled-diffusion-retriever-for-12x-to-20x-faster-query-fan-out/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/16/google-research-introduces-retrieve-for-train-r4t-an-rl-compiled-diffusion-retriever-for-12x-to-20x-faster-query-fan-out",
-        "summary": "Google Research has introduced Retrieve-for-Train (R4T), a framework for search that returns coherent, diverse result sets. It trains a fan-out language model with RL once, using groundedness, diversity, and alignment rewards. That model then synthesizes training data for a 53.9M-parameter diffusion retriever. The retriever generates all retrieval directions in a single pass, running 12× to 20× faster than autoregressive fan-out. No code or model weights have been released yet. The post Google R",
-        "source": "MarkTechPost",
-        "published": "2026-09-17T06:19:38+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Nunchux AI Introduces VC-Attention: A Training-Free Low-Bit Attention Kernel That Speeds Up Video Diffusion Transformers",
-        "url": "https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-attention-kernel-that-speeds-up-video-diffusion-transformers/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-attention-kernel-that-speeds-up-video-diffusion-transformers",
-        "summary": "Nunchux AI has released VC-Attention, a training-free low-bit attention kernel built for video Diffusion Transformers (DiTs). It targets 2 problems at once: value quantization error and a slow softmax stage. Why Attention is the Video Bottleneck Video DiTs flatten a clip into 1 sequence of spatiotemporal tokens and run full self-attention at every layer. A […] The post Nunchux AI Introduces VC-Attention: A Training-Free Low-Bit Attention Kernel That Speeds Up Video Diffusion Transformers appeare",
-        "source": "MarkTechPost",
-        "published": "2026-09-17T00:45:06+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data",
-        "url": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data",
-        "summary": "Paper2Agent, published in Nature, converts papers into validated MCP tools, scoring 91.2% on 300 questions across 74 papers. The post Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-16T21:59:26+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Knowledgator Releases GLiFormer: A 575M-Parameter Encoder That Hits 91.10 F1 on Nested JSON Extraction Without Generating Tokens",
-        "url": "https://www.marktechpost.com/2026/09/16/knowledgator-releases-gliformer-a-575m-parameter-encoder-that-hits-91-10-f1-on-nested-json-extraction-without-generating-tokens/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/16/knowledgator-releases-gliformer-a-575m-parameter-encoder-that-hits-91-10-f1-on-nested-json-extraction-without-generating-tokens",
-        "summary": "GLiFormer Large scores 91.10 F1 on nested JSON, near GPT-5.6-luna's 91.96, while grounding every value in source spans. The post Knowledgator Releases GLiFormer: A 575M-Parameter Encoder That Hits 91.10 F1 on Nested JSON Extraction Without Generating Tokens appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-16T21:19:32+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Prior Labs Releases TabPFN-3.5: A Tabular Foundation Model That Beats the Winning Otto Kaggle Solution With Default Settings",
-        "url": "https://www.marktechpost.com/2026/09/15/prior-labs-releases-tabpfn-3-5-a-tabular-foundation-model-that-beats-the-winning-otto-kaggle-solution-with-default-settings/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/15/prior-labs-releases-tabpfn-3-5-a-tabular-foundation-model-that-beats-the-winning-otto-kaggle-solution-with-default-settings",
-        "summary": "Prior Labs released TabPFN-3.5, a tabular foundation model pretrained only on synthetic data that beats Otto's winning solution. The post Prior Labs Releases TabPFN-3.5: A Tabular Foundation Model That Beats the Winning Otto Kaggle Solution With Default Settings appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-16T06:52:18+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Nums AI Releases Causilo: A Tabular Foundation Model That Tops TabArena Among Single Models",
-        "url": "https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models",
-        "summary": "Nums AI has released Causilo, a pretrained tabular foundation model for classification and regression with a scikit-learn interface. It posts the top TabArena Elo among single models, ahead of Google's TabFM and LG's EXAONE Tabular. The code is Apache-2.0, while weights are licensed for non-commercial research. The post Nums AI Releases Causilo: A Tabular Foundation Model That Tops TabArena Among Single Models appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-16T04:59:47+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Inside NVIDIA’s cuDNN Graph API: Fusion, Autotuning, and Plan Reuse with cuDNN Frontend",
-        "url": "https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend",
-        "summary": "Learn how to leverage NVIDIA’s cuDNN Frontend Graph API to build custom kernel fusions, autotuning engine configurations, FP8-style epilogues, scaled dot-product attention, dynamic shapes, and CUDA graph captures. This practical tutorial demonstrates how to optimize deep learning computations directly below framework abstractions while validating results against PyTorch The post Inside NVIDIA’s cuDNN Graph API: Fusion, Autotuning, and Plan Reuse with cuDNN Frontend appeared first on MarkTechPost",
-        "source": "MarkTechPost",
-        "published": "2026-09-15T21:37:11+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
+          "feed_url": "https://simonwillison.net/atom/everything/"
         }
       },
       {
@@ -1964,32 +1849,6 @@
         "source": "Simon Willison",
         "published": "2026-09-15T22:47:07+00:00",
         "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://simonwillison.net/atom/everything/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "The contagion of fear",
-        "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
-        "normalized_url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear",
-        "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story of his own youthful mistakes causing unjustified panic among less technical peers, and warns against doing the same: These ghoulish claims strike brazenly at the hearth, and given the obvious importance of AI, it is unsurprising that they have leapt into the mainstream, with peo",
-        "source": "Simon Willison",
-        "published": "2026-09-14T21:18:13+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://simonwillison.net/atom/everything/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "What blog posts influenced your thinking the most?",
-        "url": "https://simonwillison.net/2026/Sep/14/influences/",
-        "normalized_url": "https://simonwillison.net/2026/Sep/14/influences",
-        "summary": "My comment on What blog posts influenced your thinking the most? — Lobste.rs. An early Joel Spolsky one for me was The Law of Leaky Abstractions . I read that near the start of my career and it's encouraged me to always be looking for improved understanding of the layers under where I'm working, just in case one of those abstractions leaks. A more recent one, from 2018, is Migrations: the sole scalable fix to tech debt by Will Larson. I absolutely love his idea that migrations (e.g. replacing on",
-        "source": "Simon Willison",
-        "published": "2026-09-14T20:21:48+00:00",
-        "importance_hint": 3,
         "metadata": {
           "feed_url": "https://simonwillison.net/atom/everything/"
         }
@@ -2113,6 +1972,19 @@
       },
       {
         "category": "news",
+        "title": "How Cooley is accelerating IPO work with ChatGPT",
+        "url": "https://openai.com/index/cooley-gopublic",
+        "normalized_url": "https://openai.com/index/cooley-gopublic",
+        "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+        "source": "OpenAI",
+        "published": "2026-09-17T12:00:00+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://openai.com/news/rss.xml"
+        }
+      },
+      {
+        "category": "news",
         "title": "Introducing Astra for Law",
         "url": "https://openai.com/index/astra-for-law",
         "normalized_url": "https://openai.com/index/astra-for-law",
@@ -2178,19 +2050,6 @@
       },
       {
         "category": "news",
-        "title": "How workers are unlocking new ways of working",
-        "url": "https://openai.com/index/unlocking-new-ways-of-working",
-        "normalized_url": "https://openai.com/index/unlocking-new-ways-of-working",
-        "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-        "source": "OpenAI",
-        "published": "2026-09-16T09:00:00+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://openai.com/news/rss.xml"
-        }
-      },
-      {
-        "category": "news",
         "title": "Claude + Cowork merge 🛠️, ChatGPT sponsored agents 💰, harness tax 🤖",
         "url": "https://tldr.tech/ai/2026-09-17",
         "normalized_url": "https://tldr.tech/ai/2026-09-17",
@@ -2211,19 +2070,6 @@
         "source": "TLDR AI",
         "published": "2026-09-16T00:00:00+00:00",
         "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://tldr.tech/api/rss/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Siri model swapping 🔄, Claude Money 💰, Hugging Face Tau 👨‍💻",
-        "url": "https://tldr.tech/ai/2026-09-15",
-        "normalized_url": "https://tldr.tech/ai/2026-09-15",
-        "summary": "",
-        "source": "TLDR AI",
-        "published": "2026-09-15T00:00:00+00:00",
-        "importance_hint": 4,
         "metadata": {
           "feed_url": "https://tldr.tech/api/rss/ai"
         }
@@ -2295,6 +2141,19 @@
       },
       {
         "category": "news",
+        "title": "Keeping vLLM's Prefix Cache Warm Between Agent Turns",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiu7xj/keeping_vllms_prefix_cache_warm_between_agent/",
+        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiu7xj/keeping_vllms_prefix_cache_warm_between_agent",
+        "summary": "submitted by /u/bolts98 [link] [comments]",
+        "source": "r/LocalLLaMA",
+        "published": "2026-09-17T13:36:35+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+        }
+      },
+      {
+        "category": "news",
         "title": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
         "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wirvb0/chinas_huawei_says_ai_chip_demand_outstrips/",
         "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wirvb0/chinas_huawei_says_ai_chip_demand_outstrips",
@@ -2302,19 +2161,6 @@
         "source": "r/LocalLLaMA",
         "published": "2026-09-17T11:53:40+00:00",
         "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
-        }
-      },
-      {
-        "category": "news",
-        "title": "shots fired at dario from glm",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiy8ga/shots_fired_at_dario_from_glm/",
-        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wiy8ga/shots_fired_at_dario_from_glm",
-        "summary": "https://preview.redd.it/bqjrvgknt3qh1.png?width=2810&format=png&auto=webp&s=ec9f25709d6f2951a530228d430e0b8ecdbd8738 source super interesting read from glm as usual submitted by /u/Elux91 [link] [comments]",
-        "source": "r/LocalLLaMA",
-        "published": "2026-09-17T16:08:14+00:00",
-        "importance_hint": 3,
         "metadata": {
           "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
         }
