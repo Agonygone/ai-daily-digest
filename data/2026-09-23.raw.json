@@ -1,10 +1,10 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T07:08:58.759764+08:00",
+  "generated_at": "2026-09-23T08:15:06.402472+08:00",
   "counts": {
     "papers": 36,
     "projects": 7,
-    "news": 128
+    "news": 119
   },
   "items": {
     "papers": [
@@ -468,103 +468,114 @@
     "projects": [
       {
         "category": "projects",
-        "title": "anthropics/financial-services ⭐+436/天",
+        "title": "anthropics/financial-services ⭐+438/天",
         "url": "https://github.com/anthropics/financial-services",
         "normalized_url": "https://github.com/anthropics/financial-services",
-        "summary": "（GitHub Trending · 今日 +436 star）",
+        "summary": "（GitHub Trending · 今日 +438 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "436"
+          "stars_today": "438"
         }
       },
       {
         "category": "projects",
-        "title": "agent-substrate/substrate ⭐+301/天",
+        "title": "agent-substrate/substrate ⭐+245/天",
         "url": "https://github.com/agent-substrate/substrate",
         "normalized_url": "https://github.com/agent-substrate/substrate",
-        "summary": "Agent Substrate: the core system （GitHub Trending · 今日 +301 star）",
+        "summary": "Agent Substrate: the core system （GitHub Trending · 今日 +245 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "301"
+          "stars_today": "245"
         }
       },
       {
         "category": "projects",
-        "title": "dream-num/univer ⭐+202/天",
+        "title": "dream-num/univer ⭐+255/天",
         "url": "https://github.com/dream-num/univer",
         "normalized_url": "https://github.com/dream-num/univer",
-        "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. （GitHub Trending · 今日 +202 star）",
+        "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. （GitHub Trending · 今日 +255 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "202"
+          "stars_today": "255"
         }
       },
       {
         "category": "projects",
-        "title": "davila7/claude-code-templates ⭐+113/天",
+        "title": "davila7/claude-code-templates ⭐+64/天",
         "url": "https://github.com/davila7/claude-code-templates",
         "normalized_url": "https://github.com/davila7/claude-code-templates",
-        "summary": "CLI tool for configuring and monitoring Claude Code （GitHub Trending · 今日 +113 star）",
+        "summary": "CLI tool for configuring and monitoring Claude Code （GitHub Trending · 今日 +64 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 4,
         "metadata": {
-          "stars_today": "113"
+          "stars_today": "64"
         }
       },
       {
         "category": "projects",
-        "title": "google/ax ⭐+2,324/天",
+        "title": "google/ax ⭐+2,305/天",
         "url": "https://github.com/google/ax",
         "normalized_url": "https://github.com/google/ax",
-        "summary": "Google's open agentic orchestration runtime （GitHub Trending · 今日 +2,324 star）",
+        "summary": "Google's open agentic orchestration runtime （GitHub Trending · 今日 +2,305 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "2,324"
+          "stars_today": "2,305"
         }
       },
       {
         "category": "projects",
-        "title": "superdesigndev/treg ⭐+197/天",
+        "title": "superdesigndev/treg ⭐+230/天",
         "url": "https://github.com/superdesigndev/treg",
         "normalized_url": "https://github.com/superdesigndev/treg",
-        "summary": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn （GitHub Trending · 今日 +197 star）",
+        "summary": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn （GitHub Trending · 今日 +230 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "197"
+          "stars_today": "230"
         }
       },
       {
         "category": "projects",
-        "title": "browser-use/video-use ⭐+155/天",
+        "title": "browser-use/video-use ⭐+191/天",
         "url": "https://github.com/browser-use/video-use",
         "normalized_url": "https://github.com/browser-use/video-use",
-        "summary": "Edit videos with coding agents （GitHub Trending · 今日 +155 star）",
+        "summary": "Edit videos with coding agents （GitHub Trending · 今日 +191 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "155"
+          "stars_today": "191"
         }
       }
     ],
     "news": [
       {
         "category": "news",
+        "title": "The current balance of power in open models",
+        "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+        "normalized_url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+        "summary": "HN points: 23, comments: 6",
+        "source": "Hacker News",
+        "published": "2026-09-22T22:03:46Z",
+        "importance_hint": 4,
+        "metadata": {}
+      },
+      {
+        "category": "news",
         "title": "LLM Ass Bench",
         "url": "https://www.assbench.com/",
         "normalized_url": "https://www.assbench.com",
-        "summary": "HN points: 131, comments: 39",
+        "summary": "HN points: 137, comments: 39",
         "source": "Hacker News",
         "published": "2026-09-22T20:34:19Z",
         "importance_hint": 3,
@@ -586,7 +597,7 @@
         "title": "Trump rejects global entity for AI oversight",
         "url": "https://www.politico.com/news/2026/09/22/trump-rejects-global-entity-ai-oversight-01087546",
         "normalized_url": "https://www.politico.com/news/2026/09/22/trump-rejects-global-entity-ai-oversight-01087546",
-        "summary": "HN points: 11, comments: 2",
+        "summary": "HN points: 12, comments: 2",
         "source": "Hacker News",
         "published": "2026-09-22T19:09:53Z",
         "importance_hint": 3,
@@ -597,7 +608,7 @@
         "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
         "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
         "normalized_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-        "summary": "HN points: 323, comments: 165",
+        "summary": "HN points: 354, comments: 183",
         "source": "Hacker News",
         "published": "2026-09-22T19:03:38Z",
         "importance_hint": 3,
@@ -619,7 +630,7 @@
         "title": "Explaining to business people why building software is still hard",
         "url": "https://www.manager.dev/newsletter/cursing-the-day-lovable-was-born",
         "normalized_url": "https://www.manager.dev/newsletter/cursing-the-day-lovable-was-born",
-        "summary": "HN points: 58, comments: 53",
+        "summary": "HN points: 58, comments: 54",
         "source": "Hacker News",
         "published": "2026-09-22T19:00:40Z",
         "importance_hint": 3,
@@ -630,9 +641,20 @@
         "title": "SAML: A fractal of bad design",
         "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
         "normalized_url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design",
-        "summary": "HN points: 117, comments: 62",
+        "summary": "HN points: 132, comments: 77",
         "source": "Hacker News",
         "published": "2026-09-22T18:57:17Z",
+        "importance_hint": 3,
+        "metadata": {}
+      },
+      {
+        "category": "news",
+        "title": "GPT-6 Sol (Max) Intelligence, Performance and Price Analysis",
+        "url": "https://artificialanalysis.ai/models/gpt-6-sol",
+        "normalized_url": "https://artificialanalysis.ai/models/gpt-6-sol",
+        "summary": "HN points: 11, comments: 0",
+        "source": "Hacker News",
+        "published": "2026-09-22T18:54:40Z",
         "importance_hint": 3,
         "metadata": {}
       },
@@ -641,7 +663,7 @@
         "title": "Unreal Agent",
         "url": "https://unreallabs.ai/blog/unreal-agent/",
         "normalized_url": "https://unreallabs.ai/blog/unreal-agent",
-        "summary": "HN points: 100, comments: 61",
+        "summary": "HN points: 117, comments: 70",
         "source": "Hacker News",
         "published": "2026-09-22T18:15:53Z",
         "importance_hint": 4,
@@ -687,7 +709,7 @@
         "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
         "url": "https://www.coveragecat.com/",
         "normalized_url": "https://www.coveragecat.com",
-        "summary": "HN points: 39, comments: 20",
+        "summary": "HN points: 41, comments: 22",
         "source": "Hacker News",
         "published": "2026-09-22T17:26:36Z",
         "importance_hint": 4,
@@ -698,163 +720,11 @@
         "title": "ASML Executive Says It Has No Sales in Europe",
         "url": "https://www.bloomberg.com/news/articles/2026-09-22/asml-executive-says-europe-s-biggest-firm-has-no-sales-in-europe",
         "normalized_url": "https://www.bloomberg.com/news/articles/2026-09-22/asml-executive-says-europe-s-biggest-firm-has-no-sales-in-europe",
-        "summary": "HN points: 29, comments: 9",
+        "summary": "HN points: 32, comments: 9",
         "source": "Hacker News",
         "published": "2026-09-22T17:09:02Z",
         "importance_hint": 3,
         "metadata": {}
-      },
-      {
-        "category": "news",
-        "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-        "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-        "normalized_url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-        "summary": "HN points: 208, comments: 58",
-        "source": "Hacker News",
-        "published": "2026-09-22T16:51:31Z",
-        "importance_hint": 3,
-        "metadata": {}
-      },
-      {
-        "category": "news",
-        "title": "Americans' Drinking Remains at Record Low: Gallup Poll",
-        "url": "https://news.gallup.com/poll/713534/americans-drinking-remains-record-low.aspx",
-        "normalized_url": "https://news.gallup.com/poll/713534/americans-drinking-remains-record-low.aspx",
-        "summary": "HN points: 24, comments: 40",
-        "source": "Hacker News",
-        "published": "2026-09-22T16:29:11Z",
-        "importance_hint": 3,
-        "metadata": {}
-      },
-      {
-        "category": "news",
-        "title": "Anthropic 悄悄建了间生物实验室：Claude 不只“算分子”，开始亲自动手做实验",
-        "url": "https://www.36kr.com/p/3994523956350849",
-        "normalized_url": "https://www.36kr.com/p/3994523956350849",
-        "summary": "Anthropic很早就在布局生物医药",
-        "source": "36Kr AI",
-        "published": "2026-09-22T13:55:14+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
-        "url": "https://www.36kr.com/p/3994523878346625",
-        "normalized_url": "https://www.36kr.com/p/3994523878346625",
-        "summary": "想跳出局部最优，就得先想好放弃什么。",
-        "source": "36Kr AI",
-        "published": "2026-09-22T13:52:54+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "在未定世界，中国企业家急需一次“物种进化”",
-        "url": "https://www.36kr.com/p/3994487625158533",
-        "normalized_url": "https://www.36kr.com/p/3994487625158533",
-        "summary": "梁文锋会不会成为下一个张一鸣？或者更大的命题是，中国第五代企业家未来会不会超越前四代企业家？",
-        "source": "36Kr AI",
-        "published": "2026-09-22T13:38:06+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "具身智能的转机和出清，哪个先来？",
-        "url": "https://www.36kr.com/p/3994523684837256",
-        "normalized_url": "https://www.36kr.com/p/3994523684837256",
-        "summary": "具身智能的囚徒困境",
-        "source": "36Kr AI",
-        "published": "2026-09-22T13:28:03+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "米哈游秋叶原“消失”后，国产二游也“迷失”了",
-        "url": "https://www.36kr.com/p/3994518480965760",
-        "normalized_url": "https://www.36kr.com/p/3994518480965760",
-        "summary": "有很多亮点",
-        "source": "36Kr AI",
-        "published": "2026-09-22T13:24:58+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "腾讯字节阿里激战AI办公，但这个问题谁也没解决：对话清华教授李宁",
-        "url": "https://www.36kr.com/p/3994492930855043",
-        "normalized_url": "https://www.36kr.com/p/3994492930855043",
-        "summary": "从工具到组织，AI带来的变化远不只效率提升。",
-        "source": "36Kr AI",
-        "published": "2026-09-22T13:17:35+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "「离职一年多了，钱还没拿回来！」深兰机器人破产，欠薪上百人，员工透露「LG大单没全执行」",
-        "url": "https://www.36kr.com/p/3994487571337345",
-        "normalized_url": "https://www.36kr.com/p/3994487571337345",
-        "summary": "“PPT公司”行不通了。",
-        "source": "36Kr AI",
-        "published": "2026-09-22T13:15:48+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "AI变天，Kimi怎么补齐“月之暗面”？",
-        "url": "https://www.36kr.com/p/3994469762683015",
-        "normalized_url": "https://www.36kr.com/p/3994469762683015",
-        "summary": "模型强只是入场券，月之暗面还需要补更多课",
-        "source": "36Kr AI",
-        "published": "2026-09-22T13:14:55+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "爆款越来越贵，项目越来越难活，大厂不愿再赌了",
-        "url": "https://www.36kr.com/p/3994460055588992",
-        "normalized_url": "https://www.36kr.com/p/3994460055588992",
-        "summary": "旧的不去，新的不来。",
-        "source": "36Kr AI",
-        "published": "2026-09-22T13:11:55+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "小镇青年不靠做题，靠“卖AI”能拿到大结果吗？",
-        "url": "https://www.36kr.com/p/3994456951559813",
-        "normalized_url": "https://www.36kr.com/p/3994456951559813",
-        "summary": "每一次技术下沉，都会先催生一批街头布道者。AI从2025年前的研发期，迈入了商业化阶段。前沿算力，开始需要原始的“地推”去变现，而故事交到人手里，荒诞便随之产生。",
-        "source": "36Kr AI",
-        "published": "2026-09-22T13:08:31+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
       },
       {
         "category": "news",
@@ -1092,6 +962,32 @@
       },
       {
         "category": "news",
+        "title": "《奥德赛》，客制化 Agent，以及那些真正解决麻烦的 Skill · No.19",
+        "url": "https://sspai.com/post/114527",
+        "normalized_url": "https://sspai.com/post/114527",
+        "summary": "本期封面拍摄自泰国春武里西昌岛，那里的夏天似乎永远不会结束。 玄光专栏 · No.19 · 2026-08-30 这是一份专注加速数字化生产力，覆盖知识管理、动态视觉设计、前端开发领域的电子专栏，发布频率目前为每月 2 期，每期精选一个主题展开思考。 如果你觉得内容还不错，想获得更完善的阅读体验，更推荐使用浏览器来到官网 ( https://cgartlab.com ) 阅读。 最近发生 周刊改版为专栏 距离上一期周刊发布已经过去了 3 个月，对应发生了以下事情： 从 7 月开始，每月的 碎片信息 我开始集中收集到一篇高密度文档中，但只有我自己看得懂。 我的知识库和内容输出开始呈现越来越密集的链接关联。 同时，公众号发出了推荐算法的警告，提示内容需要提升创作度。 我决定把这个周刊升级成专栏，几乎等同于一份可公开的私人笔记。 把每月的那篇高密度文档输出为两篇专栏文章。 另外，这次结构上的调整是为了适应推荐算法。 更新节奏放缓为每月不定期更新 2-3 次，同时单篇信息密度会更高。 上周去看了诺兰的《奥德赛》 IMAX 制作层面诺兰的作品依然值回票价，这样认真对待电影的导演和团队，拍的片子以",
+        "source": "SSPAI AI",
+        "published": "2026-09-22T09:52:12+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://rsshub.rssforever.com/sspai/tag/AI"
+        }
+      },
+      {
+        "category": "news",
+        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+        "normalized_url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+        "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+        "source": "TechCrunch AI",
+        "published": "2026-09-22T23:21:49+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+        }
+      },
+      {
+        "category": "news",
         "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
         "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
         "normalized_url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
@@ -1202,19 +1098,6 @@
         "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
         "source": "TechCrunch AI",
         "published": "2026-09-22T14:15:00+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-        "normalized_url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026",
-        "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
-        "source": "TechCrunch AI",
-        "published": "2026-09-22T14:00:00+00:00",
         "importance_hint": 3,
         "metadata": {
           "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/"
@@ -1664,6 +1547,32 @@
       },
       {
         "category": "news",
+        "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+        "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+        "normalized_url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+        "summary": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . It's going to take a while to get a good read on all of these new models, but here are my impressions so far. GPT-6 Sol and Luna are half the price of their GPT-5.6 equivalents GPT-5.6 Luna was already my favorite model for building applications against, because it combined excellent performance with being re",
+        "source": "Simon Willison",
+        "published": "2026-09-22T23:46:41+00:00",
+        "importance_hint": 5,
+        "metadata": {
+          "feed_url": "https://simonwillison.net/atom/everything/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "llm 0.36",
+        "url": "https://simonwillison.net/2026/Sep/22/llm/",
+        "normalized_url": "https://simonwillison.net/2026/Sep/22/llm",
+        "summary": "Release: llm 0.36 New OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna . #1702 Model plugins can now declare supports_conversation = False for models that only accept single-turn prompts. LLM raises llm.ConversationNotSupported when these models receive assistant or tool history, and llm chat rejects them before starting a session. See Models that do not support conversations . The first plugin to use this is llm-typesafe . #1692 Reasoning traces in the Markdown output of llm",
+        "source": "Simon Willison",
+        "published": "2026-09-22T18:48:37+00:00",
+        "importance_hint": 5,
+        "metadata": {
+          "feed_url": "https://simonwillison.net/atom/everything/"
+        }
+      },
+      {
+        "category": "news",
         "title": "Quoting @therealcornpop",
         "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
         "normalized_url": "https://simonwillison.net/2026/Sep/22/therealcornpop",
@@ -1671,6 +1580,19 @@
         "source": "Simon Willison",
         "published": "2026-09-22T18:03:21+00:00",
         "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://simonwillison.net/atom/everything/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "llm-anthropic 0.29",
+        "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+        "normalized_url": "https://simonwillison.net/2026/Sep/22/llm-anthropic",
+        "summary": "Release: llm-anthropic 0.29 Adds support for Claude Opus 5.5 : llm -m claude-opus-5.5 \"prompt goes here\" Tags: llm , anthropic",
+        "source": "Simon Willison",
+        "published": "2026-09-22T17:14:55+00:00",
+        "importance_hint": 5,
         "metadata": {
           "feed_url": "https://simonwillison.net/atom/everything/"
         }
@@ -1723,45 +1645,6 @@
         "source": "Simon Willison",
         "published": "2026-09-20T21:06:43+00:00",
         "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://simonwillison.net/atom/everything/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "MCP was always a bad idea?",
-        "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
-        "normalized_url": "https://simonwillison.net/2026/Sep/20/hn-49779718",
-        "summary": "My comment on MCP was always a bad idea? — Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered internet access - just let it call APIs directly. If you want to operate something that's less YOLO than that, you'll find yourself wanting: Control over exactly which external services it can access A way to handle authentication",
-        "source": "Simon Willison",
-        "published": "2026-09-20T20:24:41+00:00",
-        "importance_hint": 5,
-        "metadata": {
-          "feed_url": "https://simonwillison.net/atom/everything/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "llm-keys-ui 0.1",
-        "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-        "normalized_url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui",
-        "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly. With this plugin, I can tell Codex to run: uvx --w",
-        "source": "Simon Willison",
-        "published": "2026-09-20T19:22:19+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://simonwillison.net/atom/everything/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "datasette-explain 0.2.2",
-        "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
-        "normalized_url": "https://simonwillison.net/2026/Sep/20/datasette-explain",
-        "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: sqlite , datasette",
-        "source": "Simon Willison",
-        "published": "2026-09-20T00:22:04+00:00",
-        "importance_hint": 4,
         "metadata": {
           "feed_url": "https://simonwillison.net/atom/everything/"
         }
@@ -2054,6 +1937,19 @@
       },
       {
         "category": "news",
+        "title": "My local llm when I tell it to do any changes to my vLLM service",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnn6ui/my_local_llm_when_i_tell_it_to_do_any_changes_to/",
+        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnn6ui/my_local_llm_when_i_tell_it_to_do_any_changes_to",
+        "summary": "better make no mistakes I've been running Qwen 3.8 Flash Next and it's a great driver for Hermes and Pi. I told it to add CUDA_DISABLE_PERF_BOOST=1 to reduce my server's idle power draw submitted by /u/ZaltyDog [link] [comments]",
+        "source": "r/LocalLLaMA",
+        "published": "2026-09-22T21:51:36+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
+        }
+      },
+      {
+        "category": "news",
         "title": "New 6B image model coming, AntLing just open sourced the Ming-Image-0.1-Design family",
         "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnipcz/new_6b_image_model_coming_antling_just_open/",
         "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnipcz/new_6b_image_model_coming_antling_just_open",
@@ -2061,19 +1957,6 @@
         "source": "r/LocalLLaMA",
         "published": "2026-09-22T19:06:22+00:00",
         "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
-        }
-      },
-      {
-        "category": "news",
-        "title": "MiMo-V2.6 distilled themselves into Qwen 9B!",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmtjqu/mimov26_distilled_themselves_into_qwen_9b/",
-        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmtjqu/mimov26_distilled_themselves_into_qwen_9b",
-        "summary": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B That's serious. submitted by /u/Beamsters [link] [comments]",
-        "source": "r/LocalLLaMA",
-        "published": "2026-09-21T23:50:29+00:00",
-        "importance_hint": 3,
         "metadata": {
           "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
         }
@@ -2093,26 +1976,26 @@
       },
       {
         "category": "news",
-        "title": "My local llm when I tell it to do any changes to my vLLM service",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnn6ui/my_local_llm_when_i_tell_it_to_do_any_changes_to/",
-        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnn6ui/my_local_llm_when_i_tell_it_to_do_any_changes_to",
-        "summary": "better make no mistakes I've been running Qwen 3.8 Flash Next and it's a great driver for Hermes and Pi. I told it to add CUDA_DISABLE_PERF_BOOST=1 to reduce my server's idle power draw submitted by /u/ZaltyDog [link] [comments]",
+        "title": "Laya model playing Flappy Bird on a CPU using OpenVINO INT8 inference",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnf4q2/laya_model_playing_flappy_bird_on_a_cpu_using/",
+        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnf4q2/laya_model_playing_flappy_bird_on_a_cpu_using",
+        "summary": "A 421M-parameter model just played Flappy Bird on my desktop CPU (OpenVINO int8) Running on my Intel Core i7 12th gen CPU Converted laya system one model to OpenVINO and quantized to int8 submitted by /u/simpleuserhere [link] [comments]",
         "source": "r/LocalLLaMA",
-        "published": "2026-09-22T21:51:36+00:00",
-        "importance_hint": 3,
+        "published": "2026-09-22T16:59:39+00:00",
+        "importance_hint": 4,
         "metadata": {
           "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
         }
       },
       {
         "category": "news",
-        "title": "Am I going insane for thinking that these are all Bot comments?",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnf162/am_i_going_insane_for_thinking_that_these_are_all/",
-        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnf162/am_i_going_insane_for_thinking_that_these_are_all",
-        "summary": "I know that there are some bots active on this sub but wow these comments really look AI generated. Is it just me or are those really bot comments? https://preview.redd.it/20st4vivq3rh1.png?width=955&format=png&auto=webp&s=16a7f98e2c4709445c6b5dbafb99517689b2cad9 source: https://www.reddit.com/r/LocalLLaMA/comments/1wn9a2w/what_underrated_ai_tools_have_actually_made_you/ submitted by /u/No_Algae1753 [link] [comments]",
+        "title": "Qwen image 2.1 (Fast FP8) generates premium quality images",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhq8d/qwen_image_21_fast_fp8_generates_premium_quality/",
+        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhq8d/qwen_image_21_fast_fp8_generates_premium_quality",
+        "summary": "Don't know how they did it, but for under 10GB model, the results are astonishing. I am running it on Unsloth Studio. They just released the update, so if you are not seeing the option, I recommend updating your Unsloth Studio. Cheers! submitted by /u/108er [link] [comments]",
         "source": "r/LocalLLaMA",
-        "published": "2026-09-22T16:56:04+00:00",
-        "importance_hint": 3,
+        "published": "2026-09-22T18:31:36+00:00",
+        "importance_hint": 4,
         "metadata": {
           "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
         }
@@ -2128,6 +2011,19 @@
         "importance_hint": 3,
         "metadata": {
           "feed_url": "https://www.oneusefulthing.org/feed"
+        }
+      },
+      {
+        "category": "news",
+        "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
+        "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+        "normalized_url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+        "summary": "Watch now (39 mins) | 🎙️ I ran blind evaluations across writing, frontend prototypes, long-running agentic tasks, SVGs, coding, and video editing, then put Opus 5.5 through Barbie Bench",
+        "source": "Lenny's Newsletter",
+        "published": "2026-09-22T23:12:49+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.lennysnewsletter.com/feed"
         }
       },
       {
@@ -2177,19 +2073,6 @@
         "summary": "Watch now (47 mins) | 🎙️ Warp CEO Zach Lloyd shows how his team turns requests from Slack, Linear, and GitHub into tracked, tested pull requests, then measures and improves its cloud-based AI software factory over time",
         "source": "Lenny's Newsletter",
         "published": "2026-09-21T12:04:11+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://www.lennysnewsletter.com/feed"
-        }
-      },
-      {
-        "category": "news",
-        "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
-        "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
-        "normalized_url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
-        "summary": "Peter Sellis on designing teams like terrorist organizations, riding your best people hard, and the three oxymorons of a truly great PM",
-        "source": "Lenny's Newsletter",
-        "published": "2026-09-20T12:32:17+00:00",
         "importance_hint": 3,
         "metadata": {
           "feed_url": "https://www.lennysnewsletter.com/feed"
