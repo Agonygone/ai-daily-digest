@@ -1,10 +1,10 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T07:18:52.622645+08:00",
+  "generated_at": "2026-09-25T08:26:18.963614+08:00",
   "counts": {
     "papers": 39,
     "projects": 11,
-    "news": 134
+    "news": 133
   },
   "items": {
     "papers": [
@@ -501,145 +501,145 @@
     "projects": [
       {
         "category": "projects",
-        "title": "rohitg00/ai-engineering-from-scratch ⭐+310/天",
+        "title": "rohitg00/ai-engineering-from-scratch ⭐+347/天",
         "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
         "normalized_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-        "summary": "Learn it. Build it. Ship it for others. （GitHub Trending · 今日 +310 star）",
+        "summary": "Learn it. Build it. Ship it for others. （GitHub Trending · 今日 +347 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 4,
         "metadata": {
-          "stars_today": "310"
+          "stars_today": "347"
         }
       },
       {
         "category": "projects",
-        "title": "vectorize-io/hindsight ⭐+1,607/天",
+        "title": "vectorize-io/hindsight ⭐+1,668/天",
         "url": "https://github.com/vectorize-io/hindsight",
         "normalized_url": "https://github.com/vectorize-io/hindsight",
-        "summary": "Hindsight: Agent Memory That Learns （GitHub Trending · 今日 +1,607 star）",
+        "summary": "Hindsight: Agent Memory That Learns （GitHub Trending · 今日 +1,668 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "1,607"
+          "stars_today": "1,668"
         }
       },
       {
         "category": "projects",
-        "title": "dream-num/univer ⭐+1,060/天",
+        "title": "dream-num/univer ⭐+1,082/天",
         "url": "https://github.com/dream-num/univer",
         "normalized_url": "https://github.com/dream-num/univer",
-        "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. （GitHub Trending · 今日 +1,060 star）",
+        "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. （GitHub Trending · 今日 +1,082 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "1,060"
+          "stars_today": "1,082"
         }
       },
       {
         "category": "projects",
-        "title": "google/ax ⭐+1,376/天",
+        "title": "google/ax ⭐+1,373/天",
         "url": "https://github.com/google/ax",
         "normalized_url": "https://github.com/google/ax",
-        "summary": "Google's open agentic orchestration runtime （GitHub Trending · 今日 +1,376 star）",
+        "summary": "Google's open agentic orchestration runtime （GitHub Trending · 今日 +1,373 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "1,376"
+          "stars_today": "1,373"
         }
       },
       {
         "category": "projects",
-        "title": "NVIDIA/Model-Optimizer ⭐+22/天",
+        "title": "NVIDIA/Model-Optimizer ⭐+44/天",
         "url": "https://github.com/NVIDIA/Model-Optimizer",
         "normalized_url": "https://github.com/NVIDIA/Model-Optimizer",
-        "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. （GitHub Trending · 今日 +22 star）",
+        "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. （GitHub Trending · 今日 +44 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "22"
+          "stars_today": "44"
         }
       },
       {
         "category": "projects",
-        "title": "anthropics/financial-services ⭐+510/天",
+        "title": "anthropics/financial-services ⭐+509/天",
         "url": "https://github.com/anthropics/financial-services",
         "normalized_url": "https://github.com/anthropics/financial-services",
-        "summary": "（GitHub Trending · 今日 +510 star）",
+        "summary": "（GitHub Trending · 今日 +509 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "510"
+          "stars_today": "509"
         }
       },
       {
         "category": "projects",
-        "title": "HKUDS/CLI-Anything ⭐+415/天",
+        "title": "HKUDS/CLI-Anything ⭐+413/天",
         "url": "https://github.com/HKUDS/CLI-Anything",
         "normalized_url": "https://github.com/HKUDS/CLI-Anything",
-        "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/ （GitHub Trending · 今日 +415 star）",
+        "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/ （GitHub Trending · 今日 +413 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "415"
+          "stars_today": "413"
         }
       },
       {
         "category": "projects",
-        "title": "obra/superpowers ⭐+606/天",
+        "title": "obra/superpowers ⭐+611/天",
         "url": "https://github.com/obra/superpowers",
         "normalized_url": "https://github.com/obra/superpowers",
-        "summary": "An agentic skills framework & software development methodology that works. （GitHub Trending · 今日 +606 star）",
+        "summary": "An agentic skills framework & software development methodology that works. （GitHub Trending · 今日 +611 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "606"
+          "stars_today": "611"
         }
       },
       {
         "category": "projects",
-        "title": "strands-agents/harness-sdk ⭐+463/天",
+        "title": "strands-agents/harness-sdk ⭐+455/天",
         "url": "https://github.com/strands-agents/harness-sdk",
         "normalized_url": "https://github.com/strands-agents/harness-sdk",
-        "summary": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. （GitHub Trending · 今日 +463 star）",
+        "summary": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. （GitHub Trending · 今日 +455 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "463"
+          "stars_today": "455"
         }
       },
       {
         "category": "projects",
-        "title": "superdesigndev/treg ⭐+470/天",
+        "title": "superdesigndev/treg ⭐+468/天",
         "url": "https://github.com/superdesigndev/treg",
         "normalized_url": "https://github.com/superdesigndev/treg",
-        "summary": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn （GitHub Trending · 今日 +470 star）",
+        "summary": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn （GitHub Trending · 今日 +468 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "470"
+          "stars_today": "468"
         }
       },
       {
         "category": "projects",
-        "title": "leejet/stable-diffusion.cpp ⭐+69/天",
+        "title": "leejet/stable-diffusion.cpp ⭐+36/天",
         "url": "https://github.com/leejet/stable-diffusion.cpp",
         "normalized_url": "https://github.com/leejet/stable-diffusion.cpp",
-        "summary": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++ （GitHub Trending · 今日 +69 star）",
+        "summary": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++ （GitHub Trending · 今日 +36 star）",
         "source": "GitHub Trending",
         "published": null,
         "importance_hint": 5,
         "metadata": {
-          "stars_today": "69"
+          "stars_today": "36"
         }
       }
     ],
@@ -649,7 +649,7 @@
         "title": "Show HN: Koi.rest – watch some fish and regain your balance",
         "url": "https://koi.rest",
         "normalized_url": "https://koi.rest",
-        "summary": "HN points: 79, comments: 17",
+        "summary": "HN points: 105, comments: 27",
         "source": "Hacker News",
         "published": "2026-09-24T21:33:03Z",
         "importance_hint": 3,
@@ -660,7 +660,7 @@
         "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
         "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
         "normalized_url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
-        "summary": "HN points: 11, comments: 0",
+        "summary": "HN points: 12, comments: 0",
         "source": "Hacker News",
         "published": "2026-09-24T20:29:34Z",
         "importance_hint": 3,
@@ -671,7 +671,7 @@
         "title": "Opus 5.5 is good at explainer videos",
         "url": "https://launchvideo.io",
         "normalized_url": "https://launchvideo.io",
-        "summary": "HN points: 102, comments: 73",
+        "summary": "HN points: 118, comments: 82",
         "source": "Hacker News",
         "published": "2026-09-24T20:28:47Z",
         "importance_hint": 3,
@@ -682,7 +682,7 @@
         "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
         "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
         "normalized_url": "https://blog.arusekk.pl/posts/srht-account-takeover",
-        "summary": "HN points: 49, comments: 8",
+        "summary": "HN points: 54, comments: 9",
         "source": "Hacker News",
         "published": "2026-09-24T19:54:21Z",
         "importance_hint": 3,
@@ -693,7 +693,7 @@
         "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
         "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
         "normalized_url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-        "summary": "HN points: 48, comments: 9",
+        "summary": "HN points: 52, comments: 9",
         "source": "Hacker News",
         "published": "2026-09-24T19:14:27Z",
         "importance_hint": 3,
@@ -726,7 +726,7 @@
         "title": "A Million Agents Is a Distributed System Problem",
         "url": "https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem",
         "normalized_url": "https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem",
-        "summary": "HN points: 27, comments: 9",
+        "summary": "HN points: 28, comments: 10",
         "source": "Hacker News",
         "published": "2026-09-24T17:26:23Z",
         "importance_hint": 4,
@@ -759,7 +759,7 @@
         "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
         "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
         "normalized_url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
-        "summary": "HN points: 20, comments: 8",
+        "summary": "HN points: 20, comments: 10",
         "source": "Hacker News",
         "published": "2026-09-24T16:41:55Z",
         "importance_hint": 3,
@@ -781,7 +781,7 @@
         "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
         "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/",
         "normalized_url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling",
-        "summary": "HN points: 86, comments: 143",
+        "summary": "HN points: 89, comments: 145",
         "source": "Hacker News",
         "published": "2026-09-24T16:15:34Z",
         "importance_hint": 3,
@@ -819,7 +819,7 @@
         "published": "2026-09-24T13:56:48+00:00",
         "importance_hint": 4,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -832,7 +832,7 @@
         "published": "2026-09-24T12:57:23+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -845,7 +845,7 @@
         "published": "2026-09-24T12:56:59+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -858,7 +858,7 @@
         "published": "2026-09-24T12:55:42+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -871,7 +871,7 @@
         "published": "2026-09-24T12:55:19+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -884,7 +884,7 @@
         "published": "2026-09-24T12:54:59+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -897,7 +897,7 @@
         "published": "2026-09-24T12:54:45+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -910,7 +910,7 @@
         "published": "2026-09-24T12:54:34+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -923,7 +923,7 @@
         "published": "2026-09-24T12:48:35+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -936,7 +936,7 @@
         "published": "2026-09-24T12:28:39+00:00",
         "importance_hint": 3,
         "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+          "feed_url": "https://hub.slarker.me/36kr/search/articles/ai"
         }
       },
       {
@@ -2163,19 +2163,6 @@
       },
       {
         "category": "news",
-        "title": "Opus 5.5 imminent ⏳, Grok 4.7 🚀, MiMo v2.6 🤖",
-        "url": "https://tldr.tech/ai/2026-09-22",
-        "normalized_url": "https://tldr.tech/ai/2026-09-22",
-        "summary": "",
-        "source": "TLDR AI",
-        "published": "2026-09-22T00:00:00+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://tldr.tech/api/rss/ai"
-        }
-      },
-      {
-        "category": "news",
         "title": "Qwen-3.8-27B is good enough that I stopped using API",
         "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0z3i/qwen3827b_is_good_enough_that_i_stopped_using_api/",
         "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0z3i/qwen3827b_is_good_enough_that_i_stopped_using_api",
@@ -2254,12 +2241,12 @@
       },
       {
         "category": "news",
-        "title": "Contrastive Language Models",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woscea/contrastive_language_models/",
-        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1woscea/contrastive_language_models",
-        "summary": "https://preview.redd.it/knblecgpeerh1.png?width=2048&format=png&auto=webp&s=9f4b2e85ab3c2a9961ead7eb27f392d0d6001f92 submitted by /u/simulated-souls [link] [comments]",
+        "title": "Meta Muse appears to be excited to give away its system data",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpbeb7/meta_muse_appears_to_be_excited_to_give_away_its/",
+        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpbeb7/meta_muse_appears_to_be_excited_to_give_away_its",
+        "summary": "submitted by /u/sn2006gy [link] [comments]",
         "source": "r/LocalLLaMA",
-        "published": "2026-09-24T04:47:11+00:00",
+        "published": "2026-09-24T19:38:33+00:00",
         "importance_hint": 4,
         "metadata": {
           "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
@@ -2267,13 +2254,13 @@
       },
       {
         "category": "news",
-        "title": "My foray into local ai. Two BC-250 ex mining apus running Qwen3.6-35B-A3B Q4_K_M at 60 tok/s with 64k context",
-        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wou3gr/my_foray_into_local_ai_two_bc250_ex_mining_apus/",
-        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1wou3gr/my_foray_into_local_ai_two_bc250_ex_mining_apus",
-        "summary": "These boards cost me $115 each and I have them connected using llama.cpp with Vulkan and RPC on Bazzite. The boards have roughly 27GB of combined GPU memory and communicate over 1gb Ethernet. For around $300 including psu I’m loving the performance. I have a few more and want to see what 6 looks like trying to run qwen 3.8 flash. submitted by /u/Ok-Breadfruit-3523 [link] [comments]",
+        "title": "Contrastive Language Models",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woscea/contrastive_language_models/",
+        "normalized_url": "https://www.reddit.com/r/LocalLLaMA/comments/1woscea/contrastive_language_models",
+        "summary": "https://preview.redd.it/knblecgpeerh1.png?width=2048&format=png&auto=webp&s=9f4b2e85ab3c2a9961ead7eb27f392d0d6001f92 submitted by /u/simulated-souls [link] [comments]",
         "source": "r/LocalLLaMA",
-        "published": "2026-09-24T06:25:59+00:00",
-        "importance_hint": 3,
+        "published": "2026-09-24T04:47:11+00:00",
+        "importance_hint": 4,
         "metadata": {
           "feed_url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"
         }
