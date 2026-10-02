@@ -1,13 +1,26 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T08:02:40.730625+08:00",
+  "generated_at": "2026-10-02T09:32:24.838132+08:00",
   "counts": {
-    "papers": 41,
+    "papers": 30,
     "projects": 11,
-    "news": 139
+    "news": 138
   },
   "items": {
     "papers": [
+      {
+        "category": "papers",
+        "title": "Learning Chaos Without Seeing Chaos: Extrapolation of Global Dynamics in Autoregressive Transformers",
+        "url": "https://huggingface.co/papers/2609.38814",
+        "normalized_url": "https://huggingface.co/papers/2609.38814",
+        "summary": "Autoregressive models are trained to predict a system's behavior one step at a time, and recursive generation allows the learned dynamics to unfold over long horizons. To what extent can such dynamics learned from local observations recover broader organization of an underlying system that was only partially observed during training? Here we study small autoregressive transformers trained from scratch on trajectories sampled from restricted parameter regimes of several non-linear dynamical syste",
+        "source": "HuggingFace Papers",
+        "published": "2026-09-30T00:00:00.000Z",
+        "importance_hint": 5,
+        "metadata": {
+          "paper_id": "2609.38814"
+        }
+      },
       {
         "category": "papers",
         "title": "PixelUMM: Encoder-Free Unified Image and Video Understanding and Generation",
@@ -287,7 +300,7 @@
         "url": "https://huggingface.co/papers/2609.40359",
         "normalized_url": "https://huggingface.co/papers/2609.40359",
         "summary": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time series of brain activity from subjects perceiving continuous speech are segmented into fixed-length windows starting at each word. A neural network then generates predictions for all of the words in a sentence together. Neighbouring windows partially overlap, implicitly revealing the interval between",
-        "source": "HuggingFace Papers, arXiv",
+        "source": "HuggingFace Papers",
         "published": "2026-09-30T00:00:00.000Z",
         "importance_hint": 4,
         "metadata": {
@@ -384,140 +397,6 @@
         "metadata": {
           "paper_id": "2609.37863"
         }
-      },
-      {
-        "category": "papers",
-        "title": "Safety of Latent Communication in Multi-Agent Systems",
-        "url": "https://huggingface.co/papers/2609.39788",
-        "normalized_url": "https://huggingface.co/papers/2609.39788",
-        "summary": "Latent communication enables multi-agent systems to exchange information directly in internal representation space, reducing the token, computation, and latency overhead of text-based communication. To this end, lightweight trainable links are introduced to map the sender's representations into the receiver's input space. In this work, we show that even benign link training can increase harmful compliance relative to text-based communication while the underlying safety-aligned agents remain unch",
-        "source": "HuggingFace Papers",
-        "published": "2026-09-30T00:00:00.000Z",
-        "importance_hint": 5,
-        "metadata": {
-          "paper_id": "2609.39788"
-        }
-      },
-      {
-        "category": "papers",
-        "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
-        "url": "https://arxiv.org/abs/2609.40362v1",
-        "normalized_url": "https://arxiv.org/abs/2609.40362v1",
-        "summary": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine discrete language prediction with continuous image generation. The former introduces a visual quantization bottleneck. The latter requires modality-dependent objectives and sampling procedures. Fully continuous modeling avoids these trade-offs and enables a shared generative process, but remains undere",
-        "source": "arXiv",
-        "published": "2026-09-30T17:59:57+00:00",
-        "importance_hint": 5,
-        "metadata": {}
-      },
-      {
-        "category": "papers",
-        "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
-        "url": "https://arxiv.org/abs/2609.40361v1",
-        "normalized_url": "https://arxiv.org/abs/2609.40361v1",
-        "summary": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanced: a constant-majority predictor can score above 90% accuracy while being clinically useless. We therefore evaluate and optimize for AUROC, a threshold-free score that ranks positives above negatives and is invariant to class balance. We focus on prompt optimization in MLLMs. Reflective methods suc",
-        "source": "arXiv",
-        "published": "2026-09-30T17:59:56+00:00",
-        "importance_hint": 5,
-        "metadata": {}
-      },
-      {
-        "category": "papers",
-        "title": "Semifactual Credit-Augmented Policy Optimization",
-        "url": "https://arxiv.org/abs/2609.40360v1",
-        "normalized_url": "https://arxiv.org/abs/2609.40360v1",
-        "summary": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity through semifactual prompt interventions that preserve the underlying problem and its answer. Our analysis reveals substantial variation in token-level sensitivity and shows that suppressing high-drift token candidates during decoding improves reasoning accuracy wit",
-        "source": "arXiv",
-        "published": "2026-09-30T17:59:56+00:00",
-        "importance_hint": 5,
-        "metadata": {}
-      },
-      {
-        "category": "papers",
-        "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
-        "url": "https://arxiv.org/abs/2609.40358v1",
-        "normalized_url": "https://arxiv.org/abs/2609.40358v1",
-        "summary": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible videos that violate basic physical principles. Existing approaches commonly assume that natural language is insufficient to represent the physical knowledge required for reliable generation, and therefore introduce additional visual, latent, numerical, or planning-based signals. We revisit this assumption and introduce Physis-Lang, a self-evolving framework that treats physical la",
-        "source": "arXiv",
-        "published": "2026-09-30T17:59:51+00:00",
-        "importance_hint": 5,
-        "metadata": {}
-      },
-      {
-        "category": "papers",
-        "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
-        "url": "https://arxiv.org/abs/2609.40356v1",
-        "normalized_url": "https://arxiv.org/abs/2609.40356v1",
-        "summary": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video scene text editing replaces text on scene surfaces, such as storefront signs, whiteboards, and product labels, while preserving the surrounding content, motion, and camera dynamics. Although scene text editing is well studied for images, video scene text editing that achieves high visual quality, t",
-        "source": "arXiv",
-        "published": "2026-09-30T17:59:33+00:00",
-        "importance_hint": 5,
-        "metadata": {}
-      },
-      {
-        "category": "papers",
-        "title": "AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents",
-        "url": "https://arxiv.org/abs/2609.40353v1",
-        "normalized_url": "https://arxiv.org/abs/2609.40353v1",
-        "summary": "The task of 3D assembly requires translating an understanding of parts and their relationships into precise spatial arrangements. Can pretrained general-purpose agents assemble objects through visual interaction without additional assembly-specific fine-tuning? To investigate this question, we introduce AssemblyWorld, an interactive 3D environment in which agents inspect rendered views and manipulate supplied rigid parts, guided by images or assembly manuals when available. Agents perceive part ",
-        "source": "arXiv",
-        "published": "2026-09-30T17:59:14+00:00",
-        "importance_hint": 5,
-        "metadata": {}
-      },
-      {
-        "category": "papers",
-        "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
-        "url": "https://arxiv.org/abs/2609.40347v1",
-        "normalized_url": "https://arxiv.org/abs/2609.40347v1",
-        "summary": "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstruction-based autoencoders for learning with unlabeled data, we repurpose standard image Vision Transformers by representing videos as super images which are grids composed of frames sampled from videos. From each super image, we construct two views: one with spatial patch masking and the other with tempo",
-        "source": "arXiv",
-        "published": "2026-09-30T17:59:03+00:00",
-        "importance_hint": 4,
-        "metadata": {}
-      },
-      {
-        "category": "papers",
-        "title": "Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?",
-        "url": "https://arxiv.org/abs/2609.40341v1",
-        "normalized_url": "https://arxiv.org/abs/2609.40341v1",
-        "summary": "Egocentric human data provides a scalable source of experience for robot learning, but varies substantially in human-robot alignment, behavioral coverage, and available supervision. Existing work shows favorable scaling with increasing human data, but it remains unclear which data properties drive downstream robot gains and how to use such data throughout the training pipeline. We present a systematic study of egocentric human data with different alignment and supervision under a unified world-a",
-        "source": "arXiv",
-        "published": "2026-09-30T17:58:35+00:00",
-        "importance_hint": 4,
-        "metadata": {}
-      },
-      {
-        "category": "papers",
-        "title": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
-        "url": "https://arxiv.org/abs/2609.40340v1",
-        "normalized_url": "https://arxiv.org/abs/2609.40340v1",
-        "summary": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can keep returning the same pages as solutions change. We introduce EvoDuet, a bi-level optimization method that co-evolves solutions and search queries with fixed model parameters. At each iteration, a retrieval gate lets the LLM assess its knowledge gap and choose to retrieve new documents, reuse stored ",
-        "source": "arXiv",
-        "published": "2026-09-30T17:58:28+00:00",
-        "importance_hint": 5,
-        "metadata": {}
-      },
-      {
-        "category": "papers",
-        "title": "Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
-        "url": "https://arxiv.org/abs/2609.40335v1",
-        "normalized_url": "https://arxiv.org/abs/2609.40335v1",
-        "summary": "Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between input and output embeddings, a design choice originally introduced for parameter efficiency and improved language modeling performance in the non-private setting. However, the impact of weight tying under differentially private training remains largely unexplored. In this work, we investigate the r",
-        "source": "arXiv",
-        "published": "2026-09-30T17:57:43+00:00",
-        "importance_hint": 5,
-        "metadata": {}
-      },
-      {
-        "category": "papers",
-        "title": "I Have a Stream: Making Self-Supervised Learning Work on Continuous Video",
-        "url": "https://arxiv.org/abs/2609.40333v1",
-        "normalized_url": "https://arxiv.org/abs/2609.40333v1",
-        "summary": "Self-supervised learning draws inspiration from infant visual development, yet standard training pipelines bear little resemblance to it: images are independently sampled and globally shuffled across epochs. We study self-supervised learning from continuous video streams, where frames are consumed in temporal order using strict sliding-window batches, without global reshuffling or multi-epoch replay. To this end, we construct WT++, a 95-hour urban walking-tour video dataset for streaming pretrai",
-        "source": "arXiv",
-        "published": "2026-09-30T17:57:30+00:00",
-        "importance_hint": 4,
-        "metadata": {}
       }
     ],
     "projects": [
@@ -668,10 +547,21 @@
     "news": [
       {
         "category": "news",
+        "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+        "url": "https://neow.in/NGxhb3d6",
+        "normalized_url": "https://neow.in/NGxhb3d6",
+        "summary": "HN points: 31, comments: 32",
+        "source": "Hacker News",
+        "published": "2026-10-01T22:15:57Z",
+        "importance_hint": 3,
+        "metadata": {}
+      },
+      {
+        "category": "news",
         "title": "Aweb – Communication for AI Agents",
         "url": "https://aweb.ai",
         "normalized_url": "https://aweb.ai",
-        "summary": "HN points: 11, comments: 5",
+        "summary": "HN points: 19, comments: 14",
         "source": "Hacker News",
         "published": "2026-10-01T22:02:31Z",
         "importance_hint": 4,
@@ -682,7 +572,7 @@
         "title": "Don't Be Fooled by this Summer of AI Hype",
         "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
         "normalized_url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype",
-        "summary": "HN points: 30, comments: 20",
+        "summary": "HN points: 34, comments: 22",
         "source": "Hacker News",
         "published": "2026-10-01T21:34:19Z",
         "importance_hint": 3,
@@ -693,7 +583,7 @@
         "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
         "url": "https://github.com/Vibra-Ingenn/Janus",
         "normalized_url": "https://github.com/Vibra-Ingenn/Janus",
-        "summary": "HN points: 44, comments: 4",
+        "summary": "HN points: 49, comments: 5",
         "source": "Hacker News",
         "published": "2026-10-01T20:36:47Z",
         "importance_hint": 5,
@@ -726,7 +616,7 @@
         "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
         "url": "https://innerloop.works/breadcrumb",
         "normalized_url": "https://innerloop.works/breadcrumb",
-        "summary": "HN points: 14, comments: 2",
+        "summary": "HN points: 15, comments: 2",
         "source": "Hacker News",
         "published": "2026-10-01T17:58:37Z",
         "importance_hint": 3,
@@ -737,7 +627,7 @@
         "title": "Vote on which of Hacker News' challenges for AI have been met",
         "url": "https://stoppels.ch/goalposts/",
         "normalized_url": "https://stoppels.ch/goalposts",
-        "summary": "HN points: 71, comments: 69",
+        "summary": "HN points: 87, comments: 94",
         "source": "Hacker News",
         "published": "2026-10-01T17:32:43Z",
         "importance_hint": 3,
@@ -759,7 +649,7 @@
         "title": "Consumer AI Fatigue Is Overwhelming, Local Businesses Should Reconsider Use",
         "url": "https://residentnewsnetwork.com/opinion-piece-consumer-ai-fatigue-is-overwhelming-and-why-local-businesses-should-re-consider-use/",
         "normalized_url": "https://residentnewsnetwork.com/opinion-piece-consumer-ai-fatigue-is-overwhelming-and-why-local-businesses-should-re-consider-use",
-        "summary": "HN points: 25, comments: 6",
+        "summary": "HN points: 25, comments: 7",
         "source": "Hacker News",
         "published": "2026-10-01T17:15:02Z",
         "importance_hint": 3,
@@ -770,7 +660,7 @@
         "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
         "url": "https://blog.cloudflare.com/clef-decision-models/",
         "normalized_url": "https://blog.cloudflare.com/clef-decision-models",
-        "summary": "HN points: 400, comments: 154",
+        "summary": "HN points: 427, comments: 159",
         "source": "Hacker News",
         "published": "2026-10-01T16:18:57Z",
         "importance_hint": 4,
@@ -789,25 +679,29 @@
       },
       {
         "category": "news",
-        "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-        "url": "https://www.polyedergarten.de/e_index.htm",
-        "normalized_url": "https://www.polyedergarten.de/e_index.htm",
-        "summary": "HN points: 50, comments: 6",
-        "source": "Hacker News",
-        "published": "2026-10-01T15:02:51Z",
-        "importance_hint": 4,
-        "metadata": {}
+        "title": "刚刚，GPT-6 Astra破解拿破仑百年悬案！",
+        "url": "https://www.36kr.com/p/4007160336027525",
+        "normalized_url": "https://www.36kr.com/p/4007160336027525",
+        "summary": "217年密信曝光。",
+        "source": "36Kr AI",
+        "published": "2026-10-02T01:31:27+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+        }
       },
       {
         "category": "news",
-        "title": "Context Language Models",
-        "url": "https://arxiv.org/abs/2609.37725",
-        "normalized_url": "https://arxiv.org/abs/2609.37725",
-        "summary": "HN points: 98, comments: 23",
-        "source": "Hacker News",
-        "published": "2026-10-01T14:51:33Z",
-        "importance_hint": 4,
-        "metadata": {}
+        "title": "变现门槛翻一番，YouTube的目标或是短视频",
+        "url": "https://www.36kr.com/p/4007122846748807",
+        "normalized_url": "https://www.36kr.com/p/4007122846748807",
+        "summary": "无论创作者选择走哪条路，谷歌都是赢家。",
+        "source": "36Kr AI",
+        "published": "2026-10-02T01:16:53+00:00",
+        "importance_hint": 3,
+        "metadata": {
+          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
+        }
       },
       {
         "category": "news",
@@ -908,32 +802,6 @@
         "summary": "还能享受学习过程。",
         "source": "36Kr AI",
         "published": "2026-10-01T00:00:58+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "007的忧思：人类永远恐惧科技之恶",
-        "url": "https://www.36kr.com/p/4005761663963009",
-        "normalized_url": "https://www.36kr.com/p/4005761663963009",
-        "summary": "科技与人性，摇摇摆摆不定",
-        "source": "36Kr AI",
-        "published": "2026-09-30T13:03:35+00:00",
-        "importance_hint": 3,
-        "metadata": {
-          "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
-        }
-      },
-      {
-        "category": "news",
-        "title": "网盘成为AI圈新宠，字节跳动也做了ADrive",
-        "url": "https://www.36kr.com/p/4005775428898944",
-        "normalized_url": "https://www.36kr.com/p/4005775428898944",
-        "summary": "ADrive的核心竞争力，是从“存储文件”转变为“盘活数据”。",
-        "source": "36Kr AI",
-        "published": "2026-09-30T13:02:56+00:00",
         "importance_hint": 3,
         "metadata": {
           "feed_url": "https://rsshub.rssforever.com/36kr/search/articles/ai"
@@ -1183,7 +1051,7 @@
         "published": "2026-09-30T03:02:18+00:00",
         "importance_hint": 4,
         "metadata": {
-          "feed_url": "https://hub.slarker.me/sspai/tag/AI"
+          "feed_url": "https://rsshub.rssforever.com/sspai/tag/AI"
         }
       },
       {
@@ -1760,6 +1628,32 @@
       },
       {
         "category": "news",
+        "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
+        "url": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
+        "normalized_url": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash",
+        "summary": "Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images, and run on Workers AI at 209.3 ms and 38.8 ms median latency. The post Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text appeared first on MarkTechPost .",
+        "source": "MarkTechPost",
+        "published": "2026-10-02T01:00:41+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
+        "title": "A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End",
+        "url": "https://www.marktechpost.com/2026/10/01/a-coding-guide-to-google-researchs-kauldron-configs-that-are-plain-data-components-wired-by-string-and-a-jax-trainer-you-can-read-end-to-end/",
+        "normalized_url": "https://www.marktechpost.com/2026/10/01/a-coding-guide-to-google-researchs-kauldron-configs-that-are-plain-data-components-wired-by-string-and-a-jax-trainer-you-can-read-end-to-end",
+        "summary": "In this comprehensive coding guide, we explore Google Research's Kauldron—a JAX training library optimized for research velocity and modularity. Learn how konfig turns experiments into plain dictionaries, kontext wires components via string paths, and ktyping enforces runtime shape checks. The post A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End appeared first on MarkTechPost .",
+        "source": "MarkTechPost",
+        "published": "2026-10-02T00:32:50+00:00",
+        "importance_hint": 4,
+        "metadata": {
+          "feed_url": "https://www.marktechpost.com/feed/"
+        }
+      },
+      {
+        "category": "news",
         "title": "Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI",
         "url": "https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/",
         "normalized_url": "https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5",
@@ -1858,32 +1752,6 @@
         "source": "MarkTechPost",
         "published": "2026-09-30T01:30:17+00:00",
         "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens",
-        "url": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens",
-        "summary": "Liquid AI has released d1, a decision model built for structured choices instead of text generation. You give it context and a set of typed questions. It returns calibrated probabilities across a fixed set of outcomes in a single call, with zero generated tokens. The target is the work many teams still send to general […] The post Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-29T21:47:09+00:00",
-        "importance_hint": 4,
-        "metadata": {
-          "feed_url": "https://www.marktechpost.com/feed/"
-        }
-      },
-      {
-        "category": "news",
-        "title": "OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers",
-        "url": "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/",
-        "normalized_url": "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers",
-        "summary": "OpenAI just introduced dots at their DevDay today. Dots are persistent AI agents powered by GPT-6 Astra. Each dot gets its own cloud computer and browser. It works across 4,000+ apps through ChatGPT plugins and keeps going after you log off. Is it deployable today? Yes, as a managed product. Dots are rolling out in […] The post OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers appeared first on MarkTechPost .",
-        "source": "MarkTechPost",
-        "published": "2026-09-29T18:30:13+00:00",
-        "importance_hint": 5,
         "metadata": {
           "feed_url": "https://www.marktechpost.com/feed/"
         }
